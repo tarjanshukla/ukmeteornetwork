@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ufocapture_record version="215" y="2017" mo="05" d="10" h="20" m="48" s="42.05" trig="1" frames="187" lng="-0.7275" lat="51.2631" alt="57.0" tz="0" u2="224" cx="720" cy="576" fps="25.000" head="30" tail="30" diff="1" sipos="1" sisize="15" dlev="48" dsize="3" lid="Ash_Vale" observer="KACRI" sid="K3" cam="VE-6047EF" lens="COMPUTAR_TG3Z2910FCS" cap="" comment="" interlace="1" bbf="0" dropframe="3">
+    <ufocapture_paths hit="11">
+     <uc_path fno="30" ono="4" pixel="5" bmax="63" x="43.8" y="49.6"></uc_path>
+     <uc_path fno="30" ono="4" pixel="7" bmax="65" x="40.7" y="52.9"></uc_path>
+     <uc_path fno="31" ono="4" pixel="6" bmax="66" x="37.2" y="57.0"></uc_path>
+     <uc_path fno="32" ono="4" pixel="7" bmax="93" x="32.1" y="61.9"></uc_path>
+     <uc_path fno="33" ono="4" pixel="7" bmax="66" x="27.6" y="66.9"></uc_path>
+     <uc_path fno="34" ono="4" pixel="6" bmax="77" x="24.2" y="69.7"></uc_path>
+     <uc_path fno="35" ono="4" pixel="5" bmax="79" x="19.6" y="74.6"></uc_path>
+     <uc_path fno="36" ono="4" pixel="4" bmax="94" x="15.5" y="78.5"></uc_path>
+     <uc_path fno="86" ono="3" pixel="11" bmax="160" x="582.4" y="371.2"></uc_path>
+     <uc_path fno="121" ono="3" pixel="9" bmax="177" x="572.7" y="376.2"></uc_path>
+     <uc_path fno="155" ono="3" pixel="10" bmax="161" x="563.5" y="381.4"></uc_path>
+    </ufocapture_paths>
+</ufocapture_record>

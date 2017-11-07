@@ -1,0 +1,57 @@
+
+
+/*
+ * Override Bootstrap's default container.
+ */
+
+/*** Wider screens! ***/
+@media (min-width: 1200px) {
+    .container {
+        width: 1200px;
+    }
+
+
+}
+
+/*** Wider screens! ***/
+@media (max-width: 1200px) {
+
+    .nav > li > a {
+      padding: 10px 10px;
+    }
+    .home-fireball .lead {
+      font-size: 19px;
+    }
+
+}
+
+/*** Mobile screens ***/
+@media (max-width: 767px) {
+
+    .navbar-brand img {
+        max-height: 25px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        padding-top: 12px;
+        padding-bottom: 12px
+    }
+    .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+        max-height: 450px;
+    }
+    .blog-title {
+        line-height: 40px;
+    }
+    .navbar, .dropdown-menu {
+      font-size: 16px;
+    }
+    .blog-title {
+      line-height: 60px;
+    }
+    .home {
+      background-size: 570px auto;
+    }
+    .home-fireball .lead {
+      font-size: 25px;
+    }
+
+}

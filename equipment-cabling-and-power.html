@@ -1,0 +1,54 @@
+---
+layout: page
+title: Equipment - Cabling and Power
+description: Cabling is straightforward, the CCTV camera requiring only a 12v power supply and an output composite video feed
+permalink: /equipment-cabling-and-power/
+image: img/equipment/equipment-cabling-and-power.jpg
+---
+
+<!-- page content here -->
+<div class="row">
+
+     {% include sidemenu-equipment.html %}
+
+     <div class="col-sm-8">
+         <p><img src="/img/equipment/equipment-cabling-and-power.jpg" alt="Cables for meteor camera" class="img-thumbnail" /></p>
+         <h2>Cabling</h2>
+         <p>Cabling is straightforward, the CCTV camera requiring only a 12v power supply and an output composite video feed.</p>
+         <ul>
+             <li>To connect the CCTV camera to the Dazzle video decoider requires a 75 ohms Video cable with a BNC connector at the camera end and a phono connector at the Dazzle end;</li>
+             <li>CCTV power uses, typically, 2,1 inch adaptors</li>
+         </ul>
+         <p>We have operated meteor monitoring cameras with cables up to 10m in lenght without encountering problems but this will depend on your particular circumstances such as the model of CCTV camera and any local sources of electrical noise.</p>
+         <p>To minimise the number of cables, video and power in a single cable can be used for the video feed and camera power supply.  However, the switching of the heating element can generate noise which interferes with the operation of the camera
+             and causes UFO detect to generate false video clips.  Therefore:</p>
+         <ul>
+             <li>The CCTV and enclosure heater must not share a single 12v cable;</li>
+             <li>The enclosure heater should not use its own separate cable (i.e. it is not using a cable that piggybacked with the video cable).</li>
+         </ul>
+         <p>CCTV cameras will use 12v supplies at, typically, less than 1A and so only a small PSU is needed.  Heating elements will use considerably more than 1A and it is especially important to ensure that enclosure PSU is matched to heating element.</p>
+         <p>Some enclosures use a 24v or even 240v supply; for safety we do not recommend using any enclosure that requires 240v, and in any case, providing safe external mains supply increases complexity and installation cost.</p>
+         <h2>Power Supplies</h2>
+         <p>Mains powered 12v supplies are available from suppliers such as Maplin or RS Components.</p>
+         <p>To keep power consumption to a minimum, the enclosure heater and CCTV camera should not be powered up in the daytime.  This is especially important for the CCTV camera as the iris must be closed in daylight to protect the CCTV from damage.
+             The simplest option is to use timers on the 12v supply.</p>
+         <p>Several of our installations use mains powered 12v supplies which are controlled by simple timer switches used normally to switch on and off domestic lighting.  It is important to ensure that:</p>
+         <ul>
+             <li>Your PSU is within the power rating of the timer you are using;</li>
+             <li>Timers are reliable and are set correctly otherwise damage to the CCD may occur</li>
+         </ul>
+         <p>The Hampshire Astronomy Group has implemented an innovative solution for its two Clanfield stations.  These stations use a pair of light sensitive switches that switch off power in daylight; these switches operate in series so that if
+             one should fail their CCTV cameras are still protected from damage from the Sun.</p>
+         <h2>Cabling into the enclosure</h2>
+         <p>The weatherproofing of your enclosure will depend on effective seals.  Enclosure provide a "gland" through which cables can pass and which provide an effective seal.  This is perhaps stating the obvious but BNC video connectors can be
+             large and may not pass through the gland. It may be necessary to fit connectors after cables have been passed through the gland.</p>
+         <hr />
+
+         <p class="pull-right">
+             <a href="{{ site.baseurl }}/equipment-external-enclosure/"><i class="fa fa-arrow-right" aria-hidden="true"></i> Next: External Enclosure</a>
+         </p>
+
+     </div>
+
+ </div>
+ <!-- // row -->

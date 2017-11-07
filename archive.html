@@ -1,0 +1,146 @@
+---
+layout: page
+title: Watch Archive
+description: archive page
+permalink: /archive/
+image: img/equipment/equipment-computer.jpg
+scripts:
+  - vue.min.js
+  - bootstrap3-typeahead.min.js
+  - vuejs-datepicker.js
+  - pages/archive.js
+---
+
+{% raw %}
+<div id="meteorList">
+  <div class="row meteor-search">
+    <form class="form-inline col-md-6 col-sm-5" @submit.prevent="search">
+      <input
+        name="clip_name"
+        class="input-sm form-control"
+        v-model="filters.clip_name"
+        placeholder="Meteor name"
+        required>
+      <button class="btn btn-sm btn-danger">Search</button>
+    </form>
+
+    <div class="SocialMedia col-md-6 col-sm-7">
+      <ul>
+        <li><a target="_blank" href="https://twitter.com/UKMeteorNetwork">
+          <i class="fa fa-twitter-square"></i> UKMON on Twitter
+        </a></li>
+        <li><a target="_blank" href="https://www.facebook.com/UkMeteorNetwork">
+          <i class="fa fa-facebook-square"></i> UKMON on Facebook
+        </a></li>
+        <li><a target="_blank" href="https://plus.google.com/u/1/101554158382717003629/posts">
+          <i class="fa fa-google-plus-square"></i> UKMON on Google+
+        </a></li>
+      </ul>
+    </div>
+  </div>
+  <hr>
+
+  <div class="row">
+    <div class="col-md-12">
+      <div class="filter-options pull-left">
+        <form class="form-horizontal" @submit.prevent="search">
+          <div class="btn-group">
+            <select name="station" class="input-sm form-control" v-model="filters.station" title="station">
+              <option disabled value="">Station:</option>
+              <option v-for="station in stationList">{{ station }}</option>
+            </select>
+          </div>
+
+          <div class="btn-group date-range">
+            <datepicker
+              format="MM/dd/yyyy"
+              :value="startDate"
+              :highlighted="highlighted"
+              :disabled="startDisabled"
+              @selected="onDateChange('startDate', $event)"
+              input-class="input-sm form-control"
+              placeholder="Date from"
+              name="start">
+            </datepicker>
+
+            <span class="input-group-addon">to</span>
+
+            <datepicker
+              format="MM/dd/yyyy"
+              :value="endDate"
+              :highlighted="highlighted"
+              :disabled="endDisabled"
+              @selected="onDateChange('endDate', $event)"
+              input-class="input-sm form-control"
+              placeholder="Date to"
+              name="end">
+            </datepicker>
+          </div>
+
+          <div class="btn-group">
+            <input
+              name="class_name"
+              class="input-sm form-control typeahead"
+              placeholder="Search for shower"
+              autocomplete="off">
+          </div>
+
+          <div class="btn-group">
+            <select name="order" class="input-sm form-control" v-model="filters.order" title="Sort by">
+              <option disabled value="">Sort by:</option>
+              <option v-for="order in orderList" :value="order.value">{{ order.text }}</option>
+            </select>
+          </div>
+
+          <button class="btn btn-sm btn-danger">Filter</button>
+          <button type="button" class="btn btn-sm btn-default" @click="clearFilters">Clear</button>
+        </form>
+      </div>
+
+      <p class="meteor-count text-info pull-right">{{meteorCount}} meteors from {{stationList.length}} stations</p>
+    </div>
+  </div>
+  <hr>
+
+  <div class="row">
+    <div class="col-md-3 meteor-card" v-for="meteor in meteorList">
+      <h4>{{meteor.unixtime | toDateTime}}</h4>
+      <a
+        :href="meteor.image_url"
+        :title="meteor.clip_name"
+        :data-title="meteor.clip_name"
+        data-toggle="lightbox"
+        data-gallery="archive-details">
+        <img :src="meteor.image_url" class="img-responsive" alt="Meteor">
+      </a>
+      <h5>{{meteor.station}}</h5>
+      <p>{{meteor.clip_name}}</p>
+      <p>Mag="{{meteor.mag}}"</p>
+      <p>Duration="{{meteor.sec}}"</p>
+      <p>class="{{meteor.class}}"</p>
+    </div>
+  </div>
+  <hr v-if="pageTotal > 1">
+
+  <nav v-if="pageTotal > 1" aria-label="Page navigation">
+    <ul class="pagination pagination-sm">
+      <li v-if="+filters.page !== 1" v-once><a :href="getPageUrl(1)"><< First</a></li>
+      <li v-if="+filters.page !== 1" v-once><a :href="getPageUrl(-1)"><</a></li>
+      <li v-for="page in pages" :class="{active: (+filters.page === page)}" v-once>
+        <a :href="getPageUrl(page)">
+          {{page}}
+        </a>
+      </li>
+      <li v-if="+filters.page !== pageTotal" v-once><a :href="getPageUrl(Infinity)">></a></li>
+      <li v-if="+filters.page !== pageTotal" v-once><a :href="getPageUrl(pageTotal)">Last >></a></li>
+    </ul>
+  </nav>
+
+  <div v-if="spinner" class="spinner-backdrop">
+    <div class="spinner">
+      <div class="dot1"></div>
+      <div class="dot2"></div>
+    </div>
+  </div>
+</div>
+{% endraw %}

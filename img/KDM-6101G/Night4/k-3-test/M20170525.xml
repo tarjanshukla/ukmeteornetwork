@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="ufo_report.xsl"?>
+<ufoanalyzer_report version="200"	 y="2017" mo="5" d="25" h="21" tz="0" days="1">
+<ufo_systems>
+	<ufo_system id="Ash_Vale_K3" meteors="6" e-class="0" total="6"/>
+</ufo_systems>
+<ufo_class_time_counts>
+<ufo_class_time_count_meteor>
+	<ufo_class_time_count class="spo" count="2" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="" h22="1" h23="" h00="1" h01="" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="J8_LLY" count="2" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="" h22="1" h23="1" h00="" h01="" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="J8_JEO" count="1" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="1" h22="" h23="" h00="" h01="" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="J8_GDE" count="1" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="" h22="" h23="" h00="" h01="1" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="Meteor total" count="6" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="1" h22="2" h23="1" h00="1" h01="1" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+</ufo_class_time_count_meteor>
+	<ufo_class_time_count class="Total" count="6" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="1" h22="2" h23="1" h00="1" h01="1" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+</ufo_class_time_counts>
+<ufo_class_mag_counts>
+<ufo_class_mag_count_meteor>
+	<ufo_class_mag_count class="spo" count="2" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="1" m001="1" m002="" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="J8_LLY" count="2" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="1" m001="" m002="1" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="J8_JEO" count="1" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="" m001="1" m002="" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="J8_GDE" count="1" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="" m001="1" m002="" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="Meteor total" count="6" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="2" m001="3" m002="1" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+</ufo_class_mag_count_meteor>
+	<ufo_class_mag_count class="Total" count="6" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="2" m001="3" m002="1" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+</ufo_class_mag_counts>
+<ufo_objects>
+	 <ufo_object y="2017" mo="5" d="25" h="21" m="41" s="36.1" class="J8_JEO" sec="0.18" mag="0.9" av="12.38" az1="9.6" ev1="55.7" ra1="257.4987" dc1="82.8123" az2="7.2" ev2="54.4" ra2="260.2217" dc2="84.6153"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="25" h="22" m="21" s="48.9" class="spo" sec="0.36" mag="1.3" av="7.27" az1="48.8" ev1="44.9" ra1="300.0929" dc1="57.3456" az2="52.4" ev2="44.5" ra2="298.2872" dc2="54.9404"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="25" h="22" m="31" s="14.4" class="J8_LLY" sec="0.12" mag="0.1" av="14.24" az1="41.7" ev1="57.4" ra1="280.0218" dc1="65.3277" az2="39.2" ev2="58.5" ra2="277.3948" dc2="66.6808"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="25" h="23" m="55" s="54.5" class="J8_LLY" sec="0.08" mag="1.8" av="4.87" az1="42.7" ev1="45.4" ra1="326.6485" dc1="61.3413" az2="41.9" ev2="45.4" ra2="327.3042" dc2="61.8730"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="26" h="0" m="47" s="1.3" class="spo" sec="0.10" mag="0.4" av="15.89" az1="35.6" ev1="24.4" ra1="15.6157" dc1="51.7193" az2="34.3" ev2="24.0" ra2="17.5574" dc2="52.0101"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="26" h="1" m="12" s="11.5" class="J8_GDE" sec="0.28" mag="1.1" av="14.82" az1="69.7" ev1="48.1" ra1="326.4917" dc1="46.4541" az2="65.7" ev2="51.3" ra2="324.1400" dc2="50.2990"></ufo_object>
+</ufo_objects>
+</ufoanalyzer_report>

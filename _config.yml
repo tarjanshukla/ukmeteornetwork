@@ -1,0 +1,41 @@
+
+title: UK Meteor Network
+email: info@empire-elements.co.uk
+description: United Kingdom Meteor Observation Network capturing meteors and fireballs
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ukmeteornetwork.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Jekyll SEO plugin https://github.com/jekyll/jekyll-seo-tag
+# Jekyll SEO plugin default Twitter account details
+twitter:
+  username: ukmeteornetwork
+
+# Jekyll SEO plugin default logo
+logo: /img/ukmon-logo.png
+
+# Jekyll SEO plugin default Twitter Card image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /resources/screen.jpg
+
+social:
+  name: UK Meteor Network
+  links:
+    - https://twitter.com/UKMeteorNetwork
+    - https://www.facebook.com/UKMeteorNetwork
+    - https://www.instagram.com/UKMeteorNetwork/

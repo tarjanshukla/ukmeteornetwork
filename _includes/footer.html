@@ -1,0 +1,30 @@
+<div class="cookie-message">
+  <div class="container">
+    <h3>Cookies policy</h3>
+    <a href="" class="cookie-close btn btn-danger btn-lg">OK</a>
+    <p>We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the website. </p>
+  </div>
+</div>
+
+<!-- Common JS dependencies -->
+<script src="{{ site.baseurl }}/js/jquery-1.12.4.min.js"></script>
+<script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}/js/bootstrap.notify.min.js"></script>
+<script src="{{ site.baseurl }}/js/ekko-lightbox.min.js"></script>
+<script src="{{ site.baseurl }}/js/jquery.cookieBar.min.js"></script>
+<script>var addthis_config = {}; </script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e9c82bb06c42d7d"></script>
+
+<!-- Sentry JS SDK, should be included after other libraries are loaded -->
+<script src="https://cdn.ravenjs.com/3.17.0/raven.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+Raven.config('https://79be88b645854895b27d061a3cca99ce@sentry.io/208952').install();
+</script>
+
+<!-- Global JS to be executed on all pages -->
+<script type="text/javascript" src="{{ site.baseurl }}/js/global.js"></script>
+
+<!-- Page JS dependencies -->
+{% for url in page.scripts %}
+  <script type="text/javascript" src="{{ site.baseurl }}/js/{{ url }}"></script>
+{% endfor %}

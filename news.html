@@ -1,0 +1,75 @@
+---
+layout: news
+title: Latest UKMON news
+description: Latest news on what's happening with UKMON meteor network
+permalink: /news/
+image: img/twitter-card-default.jpg
+---
+
+
+        <ol class="breadcrumb">
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li class="active">Latest news</li>
+        </ol>
+
+        <div class="blog-header">
+            <h1 class="blog-title">UKMON News</h1>
+            <p class="lead blog-description">Latest news on what's happening with UKMON meteor network</p>
+        </div>
+
+        <div class="row">
+
+            <div class="col-sm-8">
+
+                {% for post in site.categories.News %}
+                <hr>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <a href="{{ post.url }}" class=""><img src="{{ site.baseurl }}/{{ post.image }}" class="img-responsive"></a>
+                    </div>
+                    <div class="col-sm-8">
+                        <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                        <p>{{ post.short-description }}</p>
+                        <p>{{ post.date | date_to_long_string }}</p>
+                        <p class="text-muted">Author: {{ post.author }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+
+                <!-- Pagination
+                <div class="row text-center">
+                    <div class="col-lg-12">
+                        <ul class="pagination">
+                            <li>
+                                <a href="#">&laquo;</a>
+                            </li>
+                            <li class="active">
+                                <a href="#">1</a>
+                            </li>
+                            <li>
+                                <a href="#">2</a>
+                            </li>
+                            <li>
+                                <a href="#">3</a>
+                            </li>
+                            <li>
+                                <a href="#">4</a>
+                            </li>
+                            <li>
+                                <a href="#">5</a>
+                            </li>
+                            <li>
+                                <a href="#">&raquo;</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                 /.row -->
+
+            </div>
+            <!-- /.blog-main -->
+
+        {% include blog-sidebar.html %}
+
+        </div>
+        <!-- /.row -->

@@ -1,0 +1,60 @@
+[ M20170510_231953_Ash_Vale_K2 ] DL=54 (+5) total 56 pixel, obj=1
+ua2_refstars count=0 ddeg_ave=-1.0000 ddeg_max=0.0000
+-- trail #0 len=12 count=37 bmax=105 bmaxpixs=0 lsum=   654.8 interlace=1 bbf=0
+Average Pole 1 alpha=25.9031 delta=5.2471 D3=-0.000532
+fno=059 b=095 bm=000 lsum=   277.3 xc=576.7 yc=482.1 az= 56.9213 ev= 49.1567 ra 288.5111->288.5317 dec  54.4033-> 54.4052 err=0.0121 av=  0.0 mag= 0.71
+fno=061 b=089 bm=000 lsum=   380.3 xc=568.4 yc=482.2 az= 55.9915 ev= 49.5698 ra 288.3140->288.3303 dec  55.1275-> 55.1290 err=0.0095 av= 18.3 mag= 0.36
+fno=062 b=084 bm=000 lsum=   426.5 xc=563.5 yc=482.1 az= 55.4045 ev= 49.7999 ra 288.2251->288.2048 dec  55.5686-> 55.5668 err=0.0116 av= 22.2 mag= 0.24
+fno=063 b=094 bm=000 lsum=   654.8 xc=559.1 yc=482.1 az= 54.8980 ev= 50.0109 ra 288.1205->288.0926 dec  55.9527-> 55.9501 err=0.0158 av= 19.4 mag=-0.23
+fno=064 b=093 bm=000 lsum=   394.6 xc=554.4 yc=482.7 az= 54.3929 ev= 50.2792 ra 287.9125->287.9694 dec  56.3569-> 56.3622 err=0.0320 av= 21.0 mag= 0.32
+fno=065 b=105 bm=000 lsum=   455.6 xc=550.3 yc=482.2 az= 53.8647 ev= 50.4332 ra 287.8964->287.8591 dec  56.7272-> 56.7238 err=0.0207 av= 18.5 mag= 0.17
+fno=066 b=084 bm=000 lsum=   341.4 xc=545.4 yc=482.7 az= 53.3187 ev= 50.6999 ra 287.6902->287.7252 dec  57.1501-> 57.1533 err=0.0193 av= 21.9 mag= 0.48
+fno=067 b=093 bm=000 lsum=   252.1 xc=540.9 yc=482.5 az= 52.7627 ev= 50.8875 ra 287.6133->287.6003 dec  57.5463-> 57.5451 err=0.0071 av= 19.9 mag= 0.81
+fno=068 b=089 bm=000 lsum=   553.8 xc=535.9 yc=482.5 az= 52.1581 ev= 51.1203 ra 287.4699->287.4570 dec  57.9857-> 57.9845 err=0.0069 av= 22.3 mag=-0.05
+fno=071 b=080 bm=000 lsum=   230.1 xc=522.0 yc=482.6 az= 50.4524 ev= 51.7451 ra 287.0593->287.0415 dec  59.2003-> 59.1986 err=0.0092 av= 20.6 mag= 0.91
+fno=072 b=084 bm=000 lsum=   329.1 xc=516.6 yc=482.8 az= 49.7974 ev= 51.9978 ra 286.8523->286.8730 dec  59.6654-> 59.6673 err=0.0106 av= 23.8 mag= 0.52
+fno=073 b=083 bm=000 lsum=   214.6 xc=511.5 yc=482.6 az= 49.1337 ev= 52.2038 ra 286.7221->286.7072 dec  60.1175-> 60.1161 err=0.0076 av= 22.8 mag= 0.98
+---- trail 1 end  f=  12 pixs=37 b=105 bm=  0 lsum=   654.8 ddeg:ave=0.0135, max=0.0320
+---- peak mag -0.23 at 63, (59..73,15 sample) peak_pos_ratio = 0.29
+   .... dec is major move
+   Angular Velocity  (Average pole correction)
+   fno=  59-  61 time=1.200 ra=288.5464 dec= 54.3515 av=   20.19
+   fno=  61-  62 time=1.230 ra=288.3246 dec= 55.1490 av=   20.20
+   fno=  62-  63 time=1.250 ra=288.2103 dec= 55.5478 av=   20.21
+   fno=  63-  64 time=1.270 ra=288.0937 dec= 55.9466 av=   20.50
+   fno=  64-  65 time=1.290 ra=287.9728 dec= 56.3511 av=   20.05
+  *fno=  65-  66 time=1.310 ra=287.8521 dec= 56.7466 av=   20.62 *
+   fno=  66-  67 time=1.330 ra=287.7252 dec= 57.1532 av=   20.49
+   fno=  67-  68 time=1.350 ra=287.5965 dec= 57.5570 av=   21.26
+   fno=  68-  71 time=1.390 ra=287.4598 dec= 57.9759 av=   21.19
+   fno=  71-  72 time=1.430 ra=287.0312 dec= 59.2276 av=   21.19
+   fno=  72-  73 time=1.450 ra=286.8813 dec= 59.6445 av=   24.71
+   Angular Velocity (Minmum square Method)
+   fno=  59 time=1.180 av=   19.80 (n=9 sd=0.228)
+   fno=  61 time=1.220 av=   20.04 (n=9 sd=0.228)
+   fno=  62 time=1.240 av=   20.17 (n=9 sd=0.228)
+   fno=  63 time=1.260 av=   20.29 (n=9 sd=0.228)
+   fno=  64 time=1.280 av=   20.41 (n=9 sd=0.228)
+  *fno=  65 time=1.300 av=   20.53 (n=9 sd=0.228) *
+   fno=  66 time=1.320 av=   20.66 (n=9 sd=0.228)
+   fno=  67 time=1.340 av=   20.78 (n=9 sd=0.228)
+   fno=  68 time=1.360 av=   20.90 (n=9 sd=0.228)
+   fno=  71 time=1.420 av=   21.27 (n=9 sd=0.228)
+   fno=  72 time=1.440 av=   21.39 (n=9 sd=0.228)
+   ==== Angular velocity measured at fno=65 : ra=287.8521, dec=56.7466, ev=50.4631    av=20.5333 ====
+--- metoer classification ---- at sol=50.2 ---
+  J8_ELY dsol=  0.5 ref ra= 292.7 dec=  43.3 (D= 11.4) az=  68.3 ev=  41.0 r=  1.3 H1= -415km Vo= -1018.2km/s  dv= -2327% ... Vo1 invalid
+  J8_EAU dsol= -8.8 ref ra= 286.4 dec=  13.8 (D= 40.5) az=  98.1 ev=  24.2 r=  7.9 .. r too big
+  J8_LLY dsol=  9.2 ref ra= 291.7 dec=  25.7 (D= 28.8) az=  85.1 ev=  29.8 r=  1.5 H1= 157km Vo= 152.1km/s  dv= 332% ... Vo1 invalid
+  J8_MVL dsol= -3.8 ref ra= 286.0 dec=  21.5 (D= 32.9) az=  92.8 ev=  30.2 r=  7.2 .. r too big
+  J8_CAM dsol= 11.1 ref ra= 126.0 dec=  85.0 (D= 40.4) az= 352.0 ev=  50.9 .... invalidf order(radant-p2-p1)
+  J8_MML dsol=  9.8 ref ra= 124.9 dec=   4.4 (D=119.7) az= 275.1 ev=   1.4 r=  8.5 .. r too big
+  J8_AHE dsol= 16.2 ref ra= 278.0 dec=  21.1 (D= 34.2) az=  99.7 ev=  35.0 r= 14.7 .. r too big
+  J8_OUM dsol=-11.8 ref ra= 172.0 dec=  66.9 (D= 49.8) az= 322.0 ev=  62.7 r= 13.9 .. r too big
+  J8_MBC dsol= -6.8 ref ra= 298.5 dec= -17.8 (D= 72.7) az= 108.4 ev=  -8.1 r=  0.9 H1= 106km Vo= 52.1km/s  dv= -22% ... passed
+  J8_LYR dsol= 17.7 ref ra= 287.1 dec=  26.5 (D= 27.8) az=  87.9 ev=  33.3 r=  5.5 H1= 161km Vo= 161.5km/s  dv= 237% ... Vo1 invalid
+--->J8_MBC r=0.9deg  lng1=0.37 lat1=51.70 H=106km
+[ Vo matching estimation ]  T=0.100sec, PathAngle=2.1deg, vs=20.29deg/s ve=20.90deg/sec search Hs in(86.0..116.5km)
+D =  66.6deg,Hs= 106.7km, dvo=  0.01
+******* rao=296.9, deco=-10.2 Voo=  53.4km/s, *********
+******* rat=297.6, dect=-11.3                *********

@@ -1,0 +1,2106 @@
+[
+  {
+    "id": "15-lyncids-",
+    "name": "15 Lyncids - J8_FLY"
+  },
+  {
+    "id": "99-aquariids",
+    "name": "99 Aquariids - J8_NNA"
+  },
+  {
+    "id": "alpha-antliids-1",
+    "name": "alpha Antliids - J8_AAN"
+  },
+  {
+    "id": "alpha-bootids-1",
+    "name": "alpha Bootids - J8_ABO"
+  },
+  {
+    "id": "alpha-cancrids-1",
+    "name": "alpha Cancrids - J8_ACC"
+  },
+  {
+    "id": "alpha-canis-majorids-",
+    "name": "alpha Canis Majorids - J8_ACA"
+  },
+  {
+    "id": "alpha-capricornids",
+    "name": "Alpha Capricornids - J5_CAP"
+  },
+  {
+    "id": "alpha-capricornids-2",
+    "name": "Alpha Capricornids - J8_CAP"
+  },
+  {
+    "id": "alpha-coronae-borealids-",
+    "name": "alpha Coronae Borealids - J8_ACB"
+  },
+  {
+    "id": "alpha-draconids-1",
+    "name": "alpha Draconids - J8_ADR"
+  },
+  {
+    "id": "alpha-hydrids",
+    "name": "Alpha Hydrids - J5_AHY"
+  },
+  {
+    "id": "alpha-hydrids-3",
+    "name": "Alpha Hydrids - J8_AHY"
+  },
+  {
+    "id": "alpha-lacertids-",
+    "name": "alpha Lacertids - J8_ALA"
+  },
+  {
+    "id": "alpha-lyncids-",
+    "name": "alpha Lyncids - J8_ALY"
+  },
+  {
+    "id": "alpha-monocerotids-",
+    "name": "alpha Monocerotids - J8_AMO"
+  },
+  {
+    "id": "alpha-pegasids-",
+    "name": "alpha Pegasids - J8_APG"
+  },
+  {
+    "id": "alpha-pyxidids-1",
+    "name": "alpha Pyxidids - J8_APX"
+  },
+  {
+    "id": "alpha-scorpiids",
+    "name": "alpha Scorpiids - IE_ASC"
+  },
+  {
+    "id": "alpha-scorpiids-",
+    "name": "alpha Scorpiids - J8_ASC"
+  },
+  {
+    "id": "alpha-sextantids-",
+    "name": "alpha Sextantids - J8_ASX"
+  },
+  {
+    "id": "alpha-triangulids-",
+    "name": "alpha Triangulids - J8_ATR"
+  },
+  {
+    "id": "alpha-ursae-majorids-",
+    "name": "alpha Ursae Majorids - J8_AUM"
+  },
+  {
+    "id": "alpha-virginids-1",
+    "name": "alpha Virginids - J8_AVB"
+  },
+  {
+    "id": "andromedids-1",
+    "name": "Andromedids - J8_AND"
+  },
+  {
+    "id": "andromedids-annual",
+    "name": "Andromedids Annual - J5_AND"
+  },
+  {
+    "id": "april-alpha-comae-berenicids",
+    "name": "April alpha Comae Berenicids - J8_ACO"
+  },
+  {
+    "id": "april-102-herculids-",
+    "name": "April 102 Herculids - J8_AHE"
+  },
+  {
+    "id": "april-alpha-librids",
+    "name": "April alpha Librids - J8_AAL"
+  },
+  {
+    "id": "april-beta-sextantids",
+    "name": "April beta Sextantids - J8_ABS"
+  },
+  {
+    "id": "april-chi-librids-1",
+    "name": "April chi Librids - J8_XLI"
+  },
+  {
+    "id": "april-epsilon-delphinids",
+    "name": "April epsilon Delphinids - J8_AED"
+  },
+  {
+    "id": "april-lambda-ophiuchids-",
+    "name": "April lambda Ophiuchids - J8_ALO"
+  },
+  {
+    "id": "april-lyrids-2",
+    "name": "April Lyrids - J8_LYR"
+  },
+  {
+    "id": "april-lyrids",
+    "name": "April Lyrids - J5_LYR"
+  },
+  {
+    "id": "april-psi-ursae-majorids-1",
+    "name": "April psi Ursae Majorids - J8_PUM"
+  },
+  {
+    "id": "april-rho-cygnids-",
+    "name": "April rho Cygnids - J8_ARC"
+  },
+  {
+    "id": "august-alpha-herculids",
+    "name": "August alpha Herculids - J8_AAH"
+  },
+  {
+    "id": "august-beta-aquilids",
+    "name": "August beta Aquilids - J8_ABA"
+  },
+  {
+    "id": "august-beta-capricornids",
+    "name": "August beta Capricornids - J8_ABC"
+  },
+  {
+    "id": "august-beta-piscids-1",
+    "name": "August Beta Piscids - J8_BPI"
+  },
+  {
+    "id": "august-beta-piscids",
+    "name": "August Beta Piscids - J5_BPI"
+  },
+  {
+    "id": "august-cetids",
+    "name": "August Cetids - J8_ACT"
+  },
+  {
+    "id": "august-delta-capriconids",
+    "name": "August delta Capriconids - IW_ADC"
+  },
+  {
+    "id": "august-delta-capricornids",
+    "name": "August delta Capricornids - J8_ADC"
+  },
+  {
+    "id": "august-draconids-1",
+    "name": "August Draconids - J8_AUD"
+  },
+  {
+    "id": "august-draconids",
+    "name": "August Draconids - IW_AUD"
+  },
+  {
+    "id": "august-gamma-cepheids-",
+    "name": "August gamma Cepheids - J8_AGC"
+  },
+  {
+    "id": "august-iota-cetids-",
+    "name": "August iota Cetids - J8_AIC"
+  },
+  {
+    "id": "august-lyncids-",
+    "name": "August Lyncids - J8_ALN"
+  },
+  {
+    "id": "august-mu-draconids",
+    "name": "August mu Draconids - J8_AMD"
+  },
+  {
+    "id": "august-nu-aquariids",
+    "name": "August nu Aquariids - J8_ANA"
+  },
+  {
+    "id": "august-omicron-cetids",
+    "name": "August omicron Cetids - J8_AOC"
+  },
+  {
+    "id": "august-omicron-eridanids-",
+    "name": "August omicron Eridanids - J8_AOE"
+  },
+  {
+    "id": "august-piscids-",
+    "name": "August Piscids - J8_AUP"
+  },
+  {
+    "id": "august-theta-aquilids",
+    "name": "August theta Aquilids - J8_ATA"
+  },
+  {
+    "id": "august-triangulids",
+    "name": "August Triangulids - IW_TRI"
+  },
+  {
+    "id": "august-triangulids-",
+    "name": "August Triangulids - J8_TRI"
+  },
+  {
+    "id": "august-upsilon-sagittariids",
+    "name": "August upsilon Sagittariids - J8_AUS"
+  },
+  {
+    "id": "august-xi-cassiopeiids",
+    "name": "August xi Cassiopeiids - J8_AXC"
+  },
+  {
+    "id": "aurigids",
+    "name": "Aurigids - IE_AUR"
+  },
+  {
+    "id": "aurigids-",
+    "name": "Aurigids - J8_AUR"
+  },
+  {
+    "id": "b-puppids-",
+    "name": "b Puppids - J8_PVE"
+  },
+  {
+    "id": "beta-aquariids-",
+    "name": "beta Aquariids - J8_BAQ"
+  },
+  {
+    "id": "beta-arietids-",
+    "name": "beta Arietids - J8_BAR"
+  },
+  {
+    "id": "beta-aurigids-",
+    "name": "beta Aurigids - J8_BAU"
+  },
+  {
+    "id": "beta-aurigids",
+    "name": "beta Aurigids - IW_BAU"
+  },
+  {
+    "id": "beta-camelopardalids-",
+    "name": "beta Camelopardalids - J8_BCM"
+  },
+  {
+    "id": "beta-cancrids-1",
+    "name": "beta Cancrids - J8_BCD"
+  },
+  {
+    "id": "beta-capricornids",
+    "name": "beta Capricornids - IW_BCP"
+  },
+  {
+    "id": "beta-capricornids-",
+    "name": "beta Capricornids - J8_BCP"
+  },
+  {
+    "id": "beta-cassiopeiids-",
+    "name": "beta Cassiopeiids - J8_BCA"
+  },
+  {
+    "id": "beta-cassiopeiids",
+    "name": "beta Cassiopeiids - IW_BCA"
+  },
+  {
+    "id": "beta-coronae-australids-1",
+    "name": "beta Coronae Australids - J8_CAU"
+  },
+  {
+    "id": "beta-craterids-1",
+    "name": "beta Craterids - J8_BCR"
+  },
+  {
+    "id": "beta-equuleids-",
+    "name": "beta Equuleids - J8_BEQ"
+  },
+  {
+    "id": "beta-herculids-",
+    "name": "beta Herculids - J8_BHE"
+  },
+  {
+    "id": "beta-monocerotids-",
+    "name": "beta Monocerotids - J8_BMO"
+  },
+  {
+    "id": "beta-pegasids-",
+    "name": "beta Pegasids - J8_BPG"
+  },
+  {
+    "id": "beta-perseids",
+    "name": "beta Perseids - IW_BPE"
+  },
+  {
+    "id": "beta-perseids-",
+    "name": "beta Perseids - J8_BPE"
+  },
+  {
+    "id": "beta-sextantids-",
+    "name": "beta Sextantids - J8_BSX"
+  },
+  {
+    "id": "beta-ursae-majorids-",
+    "name": "beta Ursae Majorids - J8_BUM"
+  },
+  {
+    "id": "bootid-coronae-borealid-comple",
+    "name": "Bootid-Coronae Borealid Comple - J8_BCB"
+  },
+  {
+    "id": "c-andromedids-",
+    "name": "c Andromedids - J8_CAN"
+  },
+  {
+    "id": "camelopardalids-1",
+    "name": "Camelopardalids - J8_CAM"
+  },
+  {
+    "id": "canum-venaticids-",
+    "name": "Canum Venaticids - J8_CVN"
+  },
+  {
+    "id": "centaurid-ii-complex",
+    "name": "Centaurid II complex - J8_TCE"
+  },
+  {
+    "id": "chi-capricornids-",
+    "name": "chi Capricornids - J8_CCA"
+  },
+  {
+    "id": "chi-librids-1",
+    "name": "chi Librids - J8_CLI"
+  },
+  {
+    "id": "chi-librids",
+    "name": "chi Librids - IW_CLI"
+  },
+  {
+    "id": "chi-taurids-",
+    "name": "chi Taurids - J8_CTA"
+  },
+  {
+    "id": "chi-leonids-1",
+    "name": "Chi-Leonids - J8_CLE"
+  },
+  {
+    "id": "columbids-1",
+    "name": "Columbids - J8_COL"
+  },
+  {
+    "id": "dayt-alpha-canis-majorids-",
+    "name": "Dayt. alpha Canis Majorids - J8_ACM"
+  },
+  {
+    "id": "dayt-april-piscids-1",
+    "name": "Dayt. April Piscids - J8_APS"
+  },
+  {
+    "id": "dayt-arietids-1",
+    "name": "Dayt. Arietids - J8_ARI"
+  },
+  {
+    "id": "dayt-beta-andromedids-1",
+    "name": "Dayt. beta Andromedids - J8_DBA"
+  },
+  {
+    "id": "dayt-beta-andromedids",
+    "name": "Dayt. beta Andromedids - IW_DBA"
+  },
+  {
+    "id": "dayt-beta-cancrids-",
+    "name": "Dayt. beta Cancrids - J8_BCN"
+  },
+  {
+    "id": "dayt-beta-taurids-1",
+    "name": "Dayt. beta Taurids - J8_BTA"
+  },
+  {
+    "id": "dayt-chi-capricornids",
+    "name": "Dayt. chi Capricornids - J8_DXC"
+  },
+  {
+    "id": "dayt-chi-leonids-1",
+    "name": "Dayt. chi Leonids - J8_DXL"
+  },
+  {
+    "id": "dayt-chi-piscids-1",
+    "name": "Dayt. chi Piscids - J8_DCP"
+  },
+  {
+    "id": "dayt-delta-leonids-",
+    "name": "Dayt. delta Leonids - J8_DDL"
+  },
+  {
+    "id": "dayt-delta-triangulids",
+    "name": "Dayt. delta Triangulids - J8_DDT"
+  },
+  {
+    "id": "dayt-epsilon-aquariids-1",
+    "name": "Dayt. epsilon Aquariids - J8_DEQ"
+  },
+  {
+    "id": "dayt-epsilon-arietids-1",
+    "name": "Dayt. epsilon Arietids - J8_DEA"
+  },
+  {
+    "id": "dayt-gamma-leonids-1",
+    "name": "Dayt. gamma Leonids - J8_GLE"
+  },
+  {
+    "id": "dayt-gamma-virginids-1",
+    "name": "Dayt. gamma Virginids - J8_GVI"
+  },
+  {
+    "id": "dayt-iota-virginids-1",
+    "name": "Dayt. iota Virginids - J8_IVI"
+  },
+  {
+    "id": "dayt-kappa-aquariids-1",
+    "name": "Dayt. kappa Aquariids - J8_MKA"
+  },
+  {
+    "id": "dayt-kappa-leonids-",
+    "name": "Dayt. kappa Leonids - J8_KLE"
+  },
+  {
+    "id": "dayt-kappa-librids-",
+    "name": "Dayt. kappa Librids - J8_KLI"
+  },
+  {
+    "id": "dayt-lambda-pegasids-1",
+    "name": "Dayt. lambda Pegasids - J8_LPE"
+  },
+  {
+    "id": "dayt-lambda-taurids-",
+    "name": "Dayt. lambda Taurids - J8_DLT"
+  },
+  {
+    "id": "dayt-monocerotids-",
+    "name": "Dayt. Monocerotids - J8_DMO"
+  },
+  {
+    "id": "dayt-mu-cancrids-1",
+    "name": "Dayt. mu Cancrids - J8_DMC"
+  },
+  {
+    "id": "dayt-pi-leonids-",
+    "name": "Dayt. pi Leonids - J8_DPL"
+  },
+  {
+    "id": "dayt-q-pegasids-1",
+    "name": "Dayt. q Pegasids - J8_QPE"
+  },
+  {
+    "id": "dayt-scutids-1",
+    "name": "Dayt. Scutids - J8_JSC"
+  },
+  {
+    "id": "dayt-sexantids-2",
+    "name": "Dayt. Sexantids - J8_DSX"
+  },
+  {
+    "id": "dayt-theta-aurigids-1",
+    "name": "Dayt. theta Aurigids - J8_TAS"
+  },
+  {
+    "id": "dayt-triangulids",
+    "name": "Dayt. Triangulids - J8_DTR"
+  },
+  {
+    "id": "dayt-xi-orionids-",
+    "name": "Dayt. xi Orionids - J8_XRI"
+  },
+  {
+    "id": "dayt-xi-sagittariids-1",
+    "name": "Dayt. xi Sagittariids - J8_XSA"
+  },
+  {
+    "id": "dayt-zeta-cancrids",
+    "name": "Dayt. zeta Cancrids - IW_ZCA"
+  },
+  {
+    "id": "dayt-zeta-cancrids-",
+    "name": "Dayt. zeta Cancrids - J8_ZCA"
+  },
+  {
+    "id": "dayt-zeta-perseids-1",
+    "name": "Dayt. zeta Perseids - J8_ZPE"
+  },
+  {
+    "id": "dec-comae-berenicids-2",
+    "name": "Dec. Comae Berenicids - J8_COM"
+  },
+  {
+    "id": "dec-comae-berenicids",
+    "name": "Dec. Comae Berenicids - J5_COM"
+  },
+  {
+    "id": "dec-monocerotids",
+    "name": "Dec. Monocerotids - J5_MON"
+  },
+  {
+    "id": "dec-monocerotids-2",
+    "name": "Dec. Monocerotids - J8_MON"
+  },
+  {
+    "id": "december-alpha-aurigids",
+    "name": "December alpha Aurigids - J8_DAR"
+  },
+  {
+    "id": "december-alpha-bootids",
+    "name": "December alpha Bootids - J8_DAB"
+  },
+  {
+    "id": "december-alpha-draconids-2",
+    "name": "December Alpha Draconids - J8_DAD"
+  },
+  {
+    "id": "december-alpha-draconids",
+    "name": "December Alpha Draconids - J5_DAD"
+  },
+  {
+    "id": "december-canis-majorids-",
+    "name": "December Canis Majorids - J8_DCM"
+  },
+  {
+    "id": "december-canis-minorids-",
+    "name": "December Canis Minorids - J8_CMI"
+  },
+  {
+    "id": "december-chi-virginids",
+    "name": "December Chi Virginids - J5_XVI"
+  },
+  {
+    "id": "december-chi-virginids-1",
+    "name": "December Chi Virginids - J8_XVI"
+  },
+  {
+    "id": "december-epsilon-eridanids",
+    "name": "December epsilon Eridanids - J8_DED"
+  },
+  {
+    "id": "december-hydrids-",
+    "name": "December Hydrids - J8_DHY"
+  },
+  {
+    "id": "december-kappa-draconids-1",
+    "name": "December Kappa Draconids - J8_DKD"
+  },
+  {
+    "id": "december-kappa-draconids",
+    "name": "December Kappa Draconids - J5_KDR"
+  },
+  {
+    "id": "december-leonids-",
+    "name": "December Leonids - J8_DCL"
+  },
+  {
+    "id": "december-leonis-minorids-",
+    "name": "December Leonis Minorids - J8_DLM"
+  },
+  {
+    "id": "december-lyncids",
+    "name": "December Lyncids - J8_DEL"
+  },
+  {
+    "id": "december-mu-hydrids",
+    "name": "December mu Hydrids - J8_DMH"
+  },
+  {
+    "id": "december-mu-taurids",
+    "name": "December mu Taurids - J8_DMT"
+  },
+  {
+    "id": "december-phi-cassiopeiids-",
+    "name": "December phi Cassiopeiids - J8_DPC"
+  },
+  {
+    "id": "december-rho-virginids",
+    "name": "December rho Virginids - J8_DRV"
+  },
+  {
+    "id": "december-sigma-virginids-",
+    "name": "December sigma Virginids - J8_DSV"
+  },
+  {
+    "id": "december-theta-aurigids-",
+    "name": "December theta Aurigids - J8_DTA"
+  },
+  {
+    "id": "delta-aquilids-1",
+    "name": "delta Aquilids - J8_DAL"
+  },
+  {
+    "id": "delta-aquilids",
+    "name": "delta Aquilids - IW_DAL"
+  },
+  {
+    "id": "delta-cancrids-complex-1",
+    "name": "delta Cancrids Complex - J8_DCA"
+  },
+  {
+    "id": "delta-cygnids-1",
+    "name": "delta Cygnids - J8_DCY"
+  },
+  {
+    "id": "delta-piscids-",
+    "name": "delta Piscids - J8_DPI"
+  },
+  {
+    "id": "delta-serpentids-",
+    "name": "delta Serpentids - J8_DSE"
+  },
+  {
+    "id": "delta-draconids-1",
+    "name": "Delta-Draconids - J8_DDR"
+  },
+  {
+    "id": "delta-draconids",
+    "name": "Delta-Draconids - J3_DDR"
+  },
+  {
+    "id": "epsilon-aquilids-1",
+    "name": "epsilon Aquilids - J8_EAU"
+  },
+  {
+    "id": "epsilon-columbids-1",
+    "name": "epsilon Columbids - J8_ECO"
+  },
+  {
+    "id": "epsilon-eridanids",
+    "name": "epsilon Eridanids - IW_EER"
+  },
+  {
+    "id": "epsilon-eridanids-",
+    "name": "epsilon Eridanids - J8_EER"
+  },
+  {
+    "id": "epsilon-geminids-",
+    "name": "epsilon Geminids - J8_EGE"
+  },
+  {
+    "id": "epsilon-pegasids-",
+    "name": "epsilon Pegasids - J8_EPG"
+  },
+  {
+    "id": "epsilon-perseids",
+    "name": "epsilon Perseids - IW_EPR"
+  },
+  {
+    "id": "epsilon-perseids-",
+    "name": "epsilon Perseids - J8_EPR"
+  },
+  {
+    "id": "epsilon-ursae-majorids-1",
+    "name": "epsilon Ursae Majorids - J8_EUM"
+  },
+  {
+    "id": "epsilon-virginids-",
+    "name": "epsilon Virginids - J8_EPV"
+  },
+  {
+    "id": "eta-aquariids-2",
+    "name": "Eta Aquariids - J8_ETA"
+  },
+  {
+    "id": "eta-aquariids",
+    "name": "Eta Aquariids - J5_ETA"
+  },
+  {
+    "id": "eta-eridanids-2",
+    "name": "Eta Eridanids - J8_ERI"
+  },
+  {
+    "id": "eta-eridanids",
+    "name": "Eta Eridanids - J5_ERI"
+  },
+  {
+    "id": "eta-hydrids-",
+    "name": "eta Hydrids - J8_EHY"
+  },
+  {
+    "id": "eta-lyrids",
+    "name": "Eta Lyrids - J5_ELY"
+  },
+  {
+    "id": "eta-lyrids-2",
+    "name": "Eta Lyrids - J8_ELY"
+  },
+  {
+    "id": "eta-pegasids-",
+    "name": "eta Pegasids - J8_ETP"
+  },
+  {
+    "id": "eta-serpentids-1",
+    "name": "eta Serpentids - J8_ESE"
+  },
+  {
+    "id": "eta-taurids-",
+    "name": "eta Taurids - J8_ETT"
+  },
+  {
+    "id": "eta-virginids",
+    "name": "Eta Virginids - J5_EVI"
+  },
+  {
+    "id": "eta-virginids-2",
+    "name": "Eta Virginids - J8_EVI"
+  },
+  {
+    "id": "f-herculids-",
+    "name": "f Herculids - J8_FHE"
+  },
+  {
+    "id": "f-ophiuchids",
+    "name": "f Ophiuchids - J8_FOP"
+  },
+  {
+    "id": "february-canis-majorids-1",
+    "name": "February Canis Majorids - J8_FCM"
+  },
+  {
+    "id": "february-comae-berenicids",
+    "name": "February Comae Berenicids - J8_FCB"
+  },
+  {
+    "id": "february-epsilon-virginids-",
+    "name": "February epsilon Virginids - J8_FEV"
+  },
+  {
+    "id": "february-eta-draconids-",
+    "name": "February eta Draconids - J8_FED"
+  },
+  {
+    "id": "february-mu-virginids-",
+    "name": "February mu Virginids - J8_FMV"
+  },
+  {
+    "id": "february-pi-leonids",
+    "name": "February pi Leonids - J8_FPL"
+  },
+  {
+    "id": "febuary-alpha-orionids-1",
+    "name": "Febuary alpha Orionids - J8_FAO"
+  },
+  {
+    "id": "gamma-bootids-1",
+    "name": "gamma Bootids - J8_GBO"
+  },
+  {
+    "id": "gamma-camelopardalids",
+    "name": "gamma Camelopardalids - IW_GCA"
+  },
+  {
+    "id": "gamma-camelopardalids-1",
+    "name": "gamma Camelopardalids - J8_GCA"
+  },
+  {
+    "id": "gamma-canis-majorids-",
+    "name": "gamma Canis Majorids - J8_GCM"
+  },
+  {
+    "id": "gamma-cepheids-",
+    "name": "gamma Cepheids - J8_GCP"
+  },
+  {
+    "id": "gamma-delphinids-",
+    "name": "gamma Delphinids - J8_GDE"
+  },
+  {
+    "id": "gamma-eridanids-",
+    "name": "gamma Eridanids - J8_GER"
+  },
+  {
+    "id": "gamma-librids-1",
+    "name": "gamma Librids - J8_GLI"
+  },
+  {
+    "id": "gamma-piscids-1",
+    "name": "gamma Piscids - J8_GPS"
+  },
+  {
+    "id": "gamma-puppids-",
+    "name": "gamma Puppids - J8_PUP"
+  },
+  {
+    "id": "gamma-taurids-1",
+    "name": "gamma Taurids - J8_GTA"
+  },
+  {
+    "id": "gamma-triangulids-1",
+    "name": "gamma Triangulids - J8_GTI"
+  },
+  {
+    "id": "gamma-ursae-minorids-",
+    "name": "gamma Ursae Minorids - J8_GUM"
+  },
+  {
+    "id": "gamma-corvids-1",
+    "name": "Gamma-Corvids - J8_GCO"
+  },
+  {
+    "id": "geminids-2",
+    "name": "Geminids - J8_GEM"
+  },
+  {
+    "id": "geminids",
+    "name": "Geminids - J5_GEM"
+  },
+  {
+    "id": "h-virginids",
+    "name": "h Virginids - J5_HVI"
+  },
+  {
+    "id": "h-virginids-1",
+    "name": "h Virginids - J8_HVI"
+  },
+  {
+    "id": "iota-arietids",
+    "name": "iota Arietids - J8_IOA"
+  },
+  {
+    "id": "iota-cassiopeiids",
+    "name": "iota Cassiopeiids - IW_ICA"
+  },
+  {
+    "id": "iota-cassiopeiids-1",
+    "name": "iota Cassiopeiids - J8_ICA"
+  },
+  {
+    "id": "iota-cetids",
+    "name": "iota Cetids - J8_ICE"
+  },
+  {
+    "id": "iota-cygnids",
+    "name": "iota Cygnids - J8_ICY"
+  },
+  {
+    "id": "iota-sculptorids-",
+    "name": "iota Sculptorids - J8_ISC"
+  },
+  {
+    "id": "j2_c1av",
+    "name": "J2_c1av - J2_C1AV"
+  },
+  {
+    "id": "january-alpha-pixidids",
+    "name": "January alpha Pixidids - J8_APY"
+  },
+  {
+    "id": "january-comae-berenicids-",
+    "name": "January Comae Berenicids - J8_JCO"
+  },
+  {
+    "id": "january-gamma-delphinids-1",
+    "name": "January gamma Delphinids - J8_JGD"
+  },
+  {
+    "id": "january-hydrids-",
+    "name": "January Hydrids - J8_JHY"
+  },
+  {
+    "id": "january-leonids-",
+    "name": "January Leonids - J8_JLE"
+  },
+  {
+    "id": "january-nu-orionids-1",
+    "name": "January nu Orionids - J8_JNO"
+  },
+  {
+    "id": "january-nu-orionids",
+    "name": "January nu Orionids - IW_JNO"
+  },
+  {
+    "id": "january-phi-virginids",
+    "name": "January phi Virginids - J8_JPV"
+  },
+  {
+    "id": "january-pi-puppids-",
+    "name": "January pi Puppids - J8_PIP"
+  },
+  {
+    "id": "january-pi-virginids-",
+    "name": "January pi Virginids - J8_PVI"
+  },
+  {
+    "id": "january-zeta-aurigids-1",
+    "name": "January zeta Aurigids - J8_JZA"
+  },
+  {
+    "id": "january-zeta-aurigids",
+    "name": "January zeta Aurigids - IW_JZA"
+  },
+  {
+    "id": "january-zeta-draconids",
+    "name": "January zeta Draconids - J8_JZD"
+  },
+  {
+    "id": "july-andromedids-",
+    "name": "July Andromedids - J8_JAD"
+  },
+  {
+    "id": "july-beta-pegasids",
+    "name": "July beta Pegasids - J8_JBP"
+  },
+  {
+    "id": "july-chi-cassiopeiids-",
+    "name": "July chi Cassiopeiids - J8_JCC"
+  },
+  {
+    "id": "july-gamma-draconids-1",
+    "name": "July Gamma Draconids - J8_GDR"
+  },
+  {
+    "id": "july-gamma-draconids",
+    "name": "July Gamma Draconids - J5_JUG"
+  },
+  {
+    "id": "july-gamma-pegasids",
+    "name": "July gamma Pegasids - J8_JGP"
+  },
+  {
+    "id": "july-gamma-sagittariids",
+    "name": "July gamma Sagittariids - J8_JGS"
+  },
+  {
+    "id": "july-mu-serpendids-1",
+    "name": "July mu Serpendids - J8_MSR"
+  },
+  {
+    "id": "july-pegasids-2",
+    "name": "July Pegasids - J8_JPE"
+  },
+  {
+    "id": "july-phoenicids-",
+    "name": "July Phoenicids - J8_PHE"
+  },
+  {
+    "id": "july-rho-herculids",
+    "name": "July rho Herculids - J8_JRH"
+  },
+  {
+    "id": "july-taurids-",
+    "name": "July Taurids - J8_JTR"
+  },
+  {
+    "id": "july-zeta-draconids-1",
+    "name": "July zeta Draconids - J8_ZED"
+  },
+  {
+    "id": "july-zeta-draconids",
+    "name": "July zeta Draconids - IW_ZED"
+  },
+  {
+    "id": "june-bootids-1",
+    "name": "June Bootids - J8_JBO"
+  },
+  {
+    "id": "june-epsilon-cygnids",
+    "name": "June epsilon Cygnids - J8_JEC"
+  },
+  {
+    "id": "june-epsilon-ophiuchids",
+    "name": "June epsilon Ophiuchids - J8_JEO"
+  },
+  {
+    "id": "june-iota-pegasids-",
+    "name": "June iota Pegasids - J8_JIP"
+  },
+  {
+    "id": "june-lyrids-1",
+    "name": "June Lyrids - J3_JLY"
+  },
+  {
+    "id": "june-lyrids",
+    "name": "June Lyrids - IW_JLY"
+  },
+  {
+    "id": "june-lyrids-2",
+    "name": "June Lyrids - J8_JLY"
+  },
+  {
+    "id": "june-mu-cassiopeiids-",
+    "name": "June mu Cassiopeiids - J8_JMC"
+  },
+  {
+    "id": "june-rho-cygnids-",
+    "name": "June rho Cygnids - J8_JRC"
+  },
+  {
+    "id": "june-rho-cygnids--1",
+    "name": "June rho Cygnids - J8_JRP"
+  },
+  {
+    "id": "kappa-aquariids-1",
+    "name": "kappa Aquariids - J8_KAQ"
+  },
+  {
+    "id": "kappa-cetids",
+    "name": "kappa Cetids - J8_KCT"
+  },
+  {
+    "id": "kappa-cygnids-2",
+    "name": "Kappa Cygnids - J8_KCG"
+  },
+  {
+    "id": "kappa-cygnids",
+    "name": "Kappa Cygnids - J5_KCG"
+  },
+  {
+    "id": "kappa-draconids-",
+    "name": "kappa Draconids - J8_KDR"
+  },
+  {
+    "id": "kappa-hydrids-",
+    "name": "kappa Hydrids - J8_KHY"
+  },
+  {
+    "id": "kappa-lyrids",
+    "name": "kappa Lyrids - J8_KLY"
+  },
+  {
+    "id": "kappa-serpentids-",
+    "name": "kappa Serpentids - J8_KSE"
+  },
+  {
+    "id": "kappa-ursae-majorids-",
+    "name": "kappa Ursae Majorids - J8_KUM"
+  },
+  {
+    "id": "kappa-virginids-",
+    "name": "kappa Virginids - J8_KVI"
+  },
+  {
+    "id": "kappa-scorpiids-1",
+    "name": "Kappa-Scorpiids - J8_KSC"
+  },
+  {
+    "id": "lambda-aquariids",
+    "name": "lambda Aquariids - J8_LAQ"
+  },
+  {
+    "id": "lambda-bootids-",
+    "name": "lambda Bootids - J8_LBO"
+  },
+  {
+    "id": "lambda-cygnids-1",
+    "name": "lambda Cygnids - J8_LCY"
+  },
+  {
+    "id": "lambda-draconids-",
+    "name": "lambda Draconids - J8_LDR"
+  },
+  {
+    "id": "lambda-lyrids-",
+    "name": "lambda Lyrids - J8_LLY"
+  },
+  {
+    "id": "lambda-ophiuchids",
+    "name": "lambda Ophiuchids - J8_LOP"
+  },
+  {
+    "id": "lambda-ursae-majorids-",
+    "name": "lambda Ursae Majorids - J8_LUM"
+  },
+  {
+    "id": "lambda-virginids",
+    "name": "lambda Virginids - IW_LVI"
+  },
+  {
+    "id": "lambda-virginids-1",
+    "name": "lambda Virginids - J8_LVI"
+  },
+  {
+    "id": "leonids-2",
+    "name": "Leonids - J8_LEO"
+  },
+  {
+    "id": "leonids",
+    "name": "Leonids - J5_LEO"
+  },
+  {
+    "id": "leonis-minorids-2",
+    "name": "Leonis Minorids - J8_LMI"
+  },
+  {
+    "id": "leonis-minorids",
+    "name": "Leonis Minorids - J5_LMI"
+  },
+  {
+    "id": "march-cassiopeiids-1",
+    "name": "March Cassiopeiids - J8_MCA"
+  },
+  {
+    "id": "march-delta-geminids-1",
+    "name": "March delta Geminids - J8_SGE"
+  },
+  {
+    "id": "march-lyncids-1",
+    "name": "March Lyncids - J8_MLY"
+  },
+  {
+    "id": "may-alpha-comae-berenicids",
+    "name": "May alpha Comae Berenicids - J8_MAC"
+  },
+  {
+    "id": "may-beta-capricornids-",
+    "name": "May beta Capricornids - J8_MBC"
+  },
+  {
+    "id": "may-delta-leonids",
+    "name": "May delta Leonids - J8_MDL"
+  },
+  {
+    "id": "may-lacertids-",
+    "name": "May Lacertids - J8_MAL"
+  },
+  {
+    "id": "may-lambda-virginids-1",
+    "name": "May lambda Virginids - J8_MLV"
+  },
+  {
+    "id": "may-lambda-virginids",
+    "name": "May lambda Virginids - IW_MLV"
+  },
+  {
+    "id": "may-mu-leonids",
+    "name": "May mu Leonids - J8_MML"
+  },
+  {
+    "id": "may-phi-virginids",
+    "name": "May phi Virginids - J8_MPV"
+  },
+  {
+    "id": "may-psi-scorpiids",
+    "name": "May psi Scorpiids - J8_MPS"
+  },
+  {
+    "id": "may-vulpeculids-",
+    "name": "May Vulpeculids - J8_MVL"
+  },
+  {
+    "id": "may-zeta-cygnids",
+    "name": "May zeta Cygnids - J8_MZC"
+  },
+  {
+    "id": "microscopiids-",
+    "name": "Microscopiids - J8_MIC"
+  },
+  {
+    "id": "mu-draconids",
+    "name": "mu Draconids - IW_MDR"
+  },
+  {
+    "id": "mu-draconids-1",
+    "name": "mu Draconids - J8_MDR"
+  },
+  {
+    "id": "mu-hydrids-",
+    "name": "mu Hydrids - J8_MHY"
+  },
+  {
+    "id": "mu-leonids-",
+    "name": "mu Leonids - J8_MLE"
+  },
+  {
+    "id": "mu-lyrids",
+    "name": "mu Lyrids - J8_MUL"
+  },
+  {
+    "id": "mu-pegasids-1",
+    "name": "mu Pegasids - J8_PEG"
+  },
+  {
+    "id": "mu-perseids-",
+    "name": "mu Perseids - J8_MPR"
+  },
+  {
+    "id": "mu-serpentids-1",
+    "name": "mu Serpentids - J8_MSE"
+  },
+  {
+    "id": "mu-velids-",
+    "name": "mu Velids - J8_MVE"
+  },
+  {
+    "id": "mu-virginids",
+    "name": "mu Virginids - IW_DLI"
+  },
+  {
+    "id": "mu-virginids-1",
+    "name": "mu Virginids - J8_DLI"
+  },
+  {
+    "id": "north-alpha-leonids-1",
+    "name": "North. alpha Leonids - J8_NAL"
+  },
+  {
+    "id": "north-chi-orionids-1",
+    "name": "North. chi Orionids - J8_ORN"
+  },
+  {
+    "id": "north-dayt-may-arietids",
+    "name": "North. Dayt. May Arietids - J8_NMA"
+  },
+  {
+    "id": "north-dayt-omega-cetids-1",
+    "name": "North. Dayt. omega Cetids - J8_NOC"
+  },
+  {
+    "id": "north-december-delta-arietids",
+    "name": "North. December delta Arietids - J8_DNA"
+  },
+  {
+    "id": "north-delta-aquariids",
+    "name": "North. delta Aquariids - IW_NDA"
+  },
+  {
+    "id": "north-delta-aquariids-",
+    "name": "North. delta Aquariids - J8_NDA"
+  },
+  {
+    "id": "north-delta-cancrids-1",
+    "name": "North. delta Cancrids - J8_NCC"
+  },
+  {
+    "id": "north-delta-leonids-1",
+    "name": "North. delta Leonids - J8_NDL"
+  },
+  {
+    "id": "north-delta-piscids-",
+    "name": "North. delta Piscids - J8_NPI"
+  },
+  {
+    "id": "north-delta-piscids",
+    "name": "North. delta Piscids - IW_NPI"
+  },
+  {
+    "id": "north-gamma-virginids",
+    "name": "North. gamma Virginids - J8_NGV"
+  },
+  {
+    "id": "north-iota-aquariids",
+    "name": "North. iota Aquariids - IE_NIA"
+  },
+  {
+    "id": "north-iota-aquariids-1",
+    "name": "North. iota Aquariids - J8_NIA"
+  },
+  {
+    "id": "north-librids-lupids",
+    "name": "North. Librids-Lupids - J8_NLL"
+  },
+  {
+    "id": "north-march-virginids",
+    "name": "North. March Virginids - J8_NVI"
+  },
+  {
+    "id": "north-may-ophiuchids-1",
+    "name": "North. May Ophiuchids - J8_NOP"
+  },
+  {
+    "id": "north-mu-sagittariids-1",
+    "name": "North. mu Sagittariids - J8_NSA"
+  },
+  {
+    "id": "north-october-delta-arietids-",
+    "name": "North. October delta Arietids - J8_NOA"
+  },
+  {
+    "id": "north-omega-scorpiids-1",
+    "name": "North. omega Scorpiids - J8_NSC"
+  },
+  {
+    "id": "north-omega-scorpiids",
+    "name": "North. omega Scorpiids - IW_NSC"
+  },
+  {
+    "id": "north-sigma-sagittariids",
+    "name": "North. sigma Sagittariids - J8_NSS"
+  },
+  {
+    "id": "north-taurids",
+    "name": "North. Taurids - J5_NTA"
+  },
+  {
+    "id": "north-taurids-2",
+    "name": "North. Taurids - J8_NTA"
+  },
+  {
+    "id": "northern-eta-cetids-1",
+    "name": "Northern Eta-Cetids - J8_NEC"
+  },
+  {
+    "id": "northern-eta-cetids",
+    "name": "Northern Eta-Cetids - J3_NEC"
+  },
+  {
+    "id": "northern-june-aquilids",
+    "name": "Northern June Aquilids - J8_NZC"
+  },
+  {
+    "id": "nov-orionids",
+    "name": "Nov. Orionids - J5_NOO"
+  },
+  {
+    "id": "nov-orionids-2",
+    "name": "Nov. Orionids - J8_NOO"
+  },
+  {
+    "id": "november-alpha-sextantids",
+    "name": "November alpha Sextantids - J8_NAS"
+  },
+  {
+    "id": "november-delta-draconids",
+    "name": "November delta Draconids - J8_NDD"
+  },
+  {
+    "id": "november-epsilon-eridanids",
+    "name": "November epsilon Eridanids - J8_NER"
+  },
+  {
+    "id": "november-gamma-pegasids",
+    "name": "November gamma Pegasids - J8_NGP"
+  },
+  {
+    "id": "november-hydrids-",
+    "name": "November Hydrids - J8_NHD"
+  },
+  {
+    "id": "november-i-draconids-",
+    "name": "November i Draconids - J8_NID"
+  },
+  {
+    "id": "november-iota-aurigids-",
+    "name": "November iota Aurigids - J8_IAR"
+  },
+  {
+    "id": "november-lambda-draconids-",
+    "name": "November lambda Draconids - J8_NLD"
+  },
+  {
+    "id": "november-leonis-minorids-",
+    "name": "November Leonis Minorids - J8_NLM"
+  },
+  {
+    "id": "november-lyncids-",
+    "name": "November Lyncids - J8_NLY"
+  },
+  {
+    "id": "november-nu-arietids",
+    "name": "November nu Arietids - J8_NAR"
+  },
+  {
+    "id": "november-theta-aurigids-",
+    "name": "November theta Aurigids - J8_THA"
+  },
+  {
+    "id": "november-zeta-perseids",
+    "name": "November zeta Perseids - J8_NZP"
+  },
+  {
+    "id": "november-zeta-taurids",
+    "name": "November zeta Taurids - J8_NZT"
+  },
+  {
+    "id": "nu-andromedids-1",
+    "name": "nu Andromedids - J8_NAN"
+  },
+  {
+    "id": "nu-aurigids-",
+    "name": "nu Aurigids - J8_NAU"
+  },
+  {
+    "id": "nu-bootids-",
+    "name": "nu Bootids - J8_NBO"
+  },
+  {
+    "id": "nu-cygnids-",
+    "name": "nu Cygnids - J8_NCY"
+  },
+  {
+    "id": "nu-draconids",
+    "name": "nu Draconids - IW_NDR"
+  },
+  {
+    "id": "nu-draconids-1",
+    "name": "nu Draconids - J8_NDR"
+  },
+  {
+    "id": "nu-eridanids",
+    "name": "Nu Eridanids - J5_NUE"
+  },
+  {
+    "id": "nu-eridanids-1",
+    "name": "Nu Eridanids - J8_NUE"
+  },
+  {
+    "id": "nu-geminids-",
+    "name": "nu Geminids - J8_NGM"
+  },
+  {
+    "id": "nu-hydrids-1",
+    "name": "nu Hydrids - J8_NHY"
+  },
+  {
+    "id": "nu-phoenicids-",
+    "name": "nu Phoenicids - J8_NPH"
+  },
+  {
+    "id": "nu-phoenicids",
+    "name": "nu Phoenicids - IW_NPH"
+  },
+  {
+    "id": "nu-ursae-majorids-1",
+    "name": "nu Ursae Majorids - J8_NUM"
+  },
+  {
+    "id": "october-beta-camelopardalids-",
+    "name": "October beta Camelopardalids - J8_OBC"
+  },
+  {
+    "id": "october-camelopardalids-2",
+    "name": "October Camelopardalids - J8_OCT"
+  },
+  {
+    "id": "october-camelopardalids",
+    "name": "October Camelopardalids - J5_OCT"
+  },
+  {
+    "id": "october-capricornids-2",
+    "name": "October Capricornids - J8_OCC"
+  },
+  {
+    "id": "october-cygnids-1",
+    "name": "October Cygnids - J8_OCG"
+  },
+  {
+    "id": "october-delta-aurigids-",
+    "name": "October delta Aurigids - J8_DAU"
+  },
+  {
+    "id": "october-delta-aurigids",
+    "name": "October delta Aurigids - IW_DAU"
+  },
+  {
+    "id": "october-draconids",
+    "name": "October Draconids - IE_DRA"
+  },
+  {
+    "id": "october-draconids-1",
+    "name": "October Draconids - J8_DRA"
+  },
+  {
+    "id": "october-epsilon-piscids-1",
+    "name": "October epsilon Piscids - J8_EPC"
+  },
+  {
+    "id": "october-eta-eridanids-",
+    "name": "October eta Eridanids - J8_OEE"
+  },
+  {
+    "id": "october-gamma-puppids-",
+    "name": "October gamma Puppids - J8_GPU"
+  },
+  {
+    "id": "october-iota-cassiopeiids-",
+    "name": "October iota Cassiopeiids - J8_ICS"
+  },
+  {
+    "id": "october-kappa-draconids-",
+    "name": "October kappa Draconids - J8_OKD"
+  },
+  {
+    "id": "october-leporids-",
+    "name": "October Leporids - J8_OLP"
+  },
+  {
+    "id": "october-lyncids-",
+    "name": "October Lyncids - J8_OLY"
+  },
+  {
+    "id": "october-monocerotids-",
+    "name": "October Monocerotids - J8_OMO"
+  },
+  {
+    "id": "october-mu-leonids",
+    "name": "October mu Leonids - J8_OML"
+  },
+  {
+    "id": "october-ursae-majorids-1",
+    "name": "October Ursae Majorids - J8_OCU"
+  },
+  {
+    "id": "october-ursae-majorids",
+    "name": "October Ursae Majorids - J5_OCU"
+  },
+  {
+    "id": "october-ursae-minorids-",
+    "name": "October Ursae Minorids - J8_OUI"
+  },
+  {
+    "id": "omega-capricornids-",
+    "name": "omega Capricornids - J8_OMC"
+  },
+  {
+    "id": "omega-cassiopeiids",
+    "name": "omega Cassiopeiids - IW_OCS"
+  },
+  {
+    "id": "omega-cassiopeiids-1",
+    "name": "omega Cassiopeiids - J8_OCS"
+  },
+  {
+    "id": "omega-eridanids-",
+    "name": "omega Eridanids - J8_OME"
+  },
+  {
+    "id": "omega-piscids",
+    "name": "omega Piscids - IW_OPC"
+  },
+  {
+    "id": "omega-piscids-2",
+    "name": "omega Piscids - J8_OPI"
+  },
+  {
+    "id": "omega-piscids-1",
+    "name": "omega Piscids - J8_OPC"
+  },
+  {
+    "id": "omega-serpentids-",
+    "name": "omega Serpentids - J8_OSE"
+  },
+  {
+    "id": "omega-taurids-1",
+    "name": "omega Taurids - J8_FTA"
+  },
+  {
+    "id": "omega-ursae-majorids-1",
+    "name": "omega Ursae Majorids - J8_OUM"
+  },
+  {
+    "id": "omicron-cygnids",
+    "name": "omicron Cygnids - IW_OCY"
+  },
+  {
+    "id": "omicron-cygnids-",
+    "name": "omicron Cygnids - J8_OCY"
+  },
+  {
+    "id": "omicron-draconids-",
+    "name": "omicron Draconids - J8_ODR"
+  },
+  {
+    "id": "omicron-draconids",
+    "name": "omicron Draconids - IW_ODR"
+  },
+  {
+    "id": "omicron-eridanids",
+    "name": "Omicron Eridanids - J5_OER"
+  },
+  {
+    "id": "omicron-eridanids-1",
+    "name": "Omicron Eridanids - J8_OER"
+  },
+  {
+    "id": "omicron-pegasids",
+    "name": "omicron Pegasids - J8_OPG"
+  },
+  {
+    "id": "omicron-ursae-majorids-1",
+    "name": "Omicron Ursae Majorids - J8_OMA"
+  },
+  {
+    "id": "omikron-leonids-",
+    "name": "omikron Leonids - J8_OLE"
+  },
+  {
+    "id": "orionids",
+    "name": "Orionids - J5_ORI"
+  },
+  {
+    "id": "orionids-2",
+    "name": "Orionids - J8_ORI"
+  },
+  {
+    "id": "perseids-2",
+    "name": "Perseids - J8_PER"
+  },
+  {
+    "id": "perseids",
+    "name": "Perseids - J5_PER"
+  },
+  {
+    "id": "phi-aquariids-1",
+    "name": "phi Aquariids - J8_PAQ"
+  },
+  {
+    "id": "phi-bootids-2",
+    "name": "phi Bootids - J8_PBO"
+  },
+  {
+    "id": "phi-bootids",
+    "name": "phi Bootids - IW_PBO"
+  },
+  {
+    "id": "phi-draconids-1",
+    "name": "phi Draconids - J8_PDF"
+  },
+  {
+    "id": "phi-pegasids-",
+    "name": "phi Pegasids - J8_PHP"
+  },
+  {
+    "id": "phi-piscids-",
+    "name": "phi Piscids - J8_PPS"
+  },
+  {
+    "id": "phi-bootids-3",
+    "name": "Phi-Bootids - J8_FBO"
+  },
+  {
+    "id": "pi-cetids-1",
+    "name": "pi Cetids - J8_CET"
+  },
+  {
+    "id": "pi-hydrids-1",
+    "name": "pi Hydrids - J8_PIH"
+  },
+  {
+    "id": "pi-leonids-1",
+    "name": "pi Leonids - J8_OPL"
+  },
+  {
+    "id": "piscis-austrinids-2",
+    "name": "Piscis Austrinids - J8_PAU"
+  },
+  {
+    "id": "piscis-austrinids",
+    "name": "Piscis Austrinids - J5_PAU"
+  },
+  {
+    "id": "psi-aurigids--1",
+    "name": "psi Aurigids - J8_PSA"
+  },
+  {
+    "id": "psi-aurigids-",
+    "name": "psi Aurigids - J8_PAR"
+  },
+  {
+    "id": "psi-cassiopeiids-",
+    "name": "psi Cassiopeiids - J8_PCA"
+  },
+  {
+    "id": "psi-pegasids-",
+    "name": "psi Pegasids - J8_PSP"
+  },
+  {
+    "id": "psi-ursae-majorids",
+    "name": "Psi Ursae Majorids - J5_PSU"
+  },
+  {
+    "id": "psi-ursae-majorids-1",
+    "name": "Psi Ursae Majorids - J8_PSU"
+  },
+  {
+    "id": "puppid-velid-i-complex-",
+    "name": "Puppid-Velid I Complex - J8_PUV"
+  },
+  {
+    "id": "quadrantids",
+    "name": "Quadrantids - J5_QUA"
+  },
+  {
+    "id": "quadrantids-2",
+    "name": "Quadrantids - J8_QUA"
+  },
+  {
+    "id": "rho-bootids-",
+    "name": "rho Bootids - J8_RBO"
+  },
+  {
+    "id": "rho-geminids-1",
+    "name": "rho Geminids - J8_RGE"
+  },
+  {
+    "id": "rho-leonids-",
+    "name": "rho Leonids - J8_RLE"
+  },
+  {
+    "id": "rho-puppids-",
+    "name": "rho Puppids - J8_RPU"
+  },
+  {
+    "id": "s10",
+    "name": "S10 - SM_010"
+  },
+  {
+    "id": "s25",
+    "name": "S25 - SM_025"
+  },
+  {
+    "id": "s26",
+    "name": "S26 - SM_026"
+  },
+  {
+    "id": "scutids-1",
+    "name": "Scutids - J8_SCU"
+  },
+  {
+    "id": "sept-alpha-orionids",
+    "name": "Sept. alpha Orionids - IW_AOR"
+  },
+  {
+    "id": "sept-beta-cassiopeiids",
+    "name": "Sept. beta Cassiopeiids - IW_SCS"
+  },
+  {
+    "id": "sept-lyncids",
+    "name": "Sept. Lyncids - IW_SLY"
+  },
+  {
+    "id": "september-alpha-orionids-",
+    "name": "September alpha Orionids - J8_AOR"
+  },
+  {
+    "id": "september-aquariids",
+    "name": "September Aquariids - J8_SAQ"
+  },
+  {
+    "id": "september-beta-cassiopeiids-",
+    "name": "September beta Cassiopeiids - J8_SCS"
+  },
+  {
+    "id": "september-iota-cassiopeiids-",
+    "name": "September iota Cassiopeiids - J8_SIC"
+  },
+  {
+    "id": "september-lyncids-",
+    "name": "September Lyncids - J8_SLY"
+  },
+  {
+    "id": "september-mu-arietids-",
+    "name": "September mu Arietids - J8_SAR"
+  },
+  {
+    "id": "september-omicron-orionids",
+    "name": "September omicron Orionids - J8_SOO"
+  },
+  {
+    "id": "september-perseids",
+    "name": "September Perseids - J5_SPE"
+  },
+  {
+    "id": "september-perseids-1",
+    "name": "September Perseids - J8_SPE"
+  },
+  {
+    "id": "september-pi-orionids-",
+    "name": "September pi Orionids - J8_POR"
+  },
+  {
+    "id": "september-rho-pegasids",
+    "name": "September rho Pegasids - J8_SRP"
+  },
+  {
+    "id": "september-theta-capricornids",
+    "name": "September theta Capricornids - J8_STC"
+  },
+  {
+    "id": "september-october-lyncids-",
+    "name": "September-October Lyncids - J8_SOL"
+  },
+  {
+    "id": "sigma-arietids-",
+    "name": "sigma Arietids - J8_SSA"
+  },
+  {
+    "id": "sigma-capricornids",
+    "name": "sigma Capricornids - J8_SCA"
+  },
+  {
+    "id": "sigma-hydrids",
+    "name": "Sigma Hydrids - J5_HYD"
+  },
+  {
+    "id": "sigma-hydrids-2",
+    "name": "Sigma Hydrids - J8_HYD"
+  },
+  {
+    "id": "sigma-leonids-1",
+    "name": "sigma Leonids - J8_SLE"
+  },
+  {
+    "id": "sigma-orionids-",
+    "name": "sigma Orionids - J8_SOR"
+  },
+  {
+    "id": "sigma-puppids-",
+    "name": "sigma Puppids - J8_SPU"
+  },
+  {
+    "id": "sigma-serpentids-",
+    "name": "sigma Serpentids - J8_SSE"
+  },
+  {
+    "id": "south-alpha-pegasids-",
+    "name": "South alpha Pegasids - J8_SAP"
+  },
+  {
+    "id": "south-alpha-leonids-1",
+    "name": "South. alpha Leonids - J8_SAL"
+  },
+  {
+    "id": "south-chi-orionids-1",
+    "name": "South. chi Orionids - J8_ORS"
+  },
+  {
+    "id": "south-dayt-may-arietids-1",
+    "name": "South. Dayt. May Arietids - J8_SMA"
+  },
+  {
+    "id": "south-december-delta-arietids",
+    "name": "South. December delta Arietids - J8_DSA"
+  },
+  {
+    "id": "south-delta-aquariids-2",
+    "name": "South. Delta Aquariids - J8_SDA"
+  },
+  {
+    "id": "south-delta-aquariids",
+    "name": "South. Delta Aquariids - J5_SDA"
+  },
+  {
+    "id": "south-delta-cancrids-1",
+    "name": "South. delta Cancrids - J8_SCC"
+  },
+  {
+    "id": "south-delta-leonids-1",
+    "name": "South. delta Leonids - J8_SDL"
+  },
+  {
+    "id": "south-delta-piscids",
+    "name": "South. delta Piscids - IW_SPI"
+  },
+  {
+    "id": "south-delta-piscids-1",
+    "name": "South. delta Piscids - J8_SPI"
+  },
+  {
+    "id": "south-gamma-virginids-1",
+    "name": "South. gamma Virginids - J8_SGV"
+  },
+  {
+    "id": "south-iota-aquariids-",
+    "name": "South. iota Aquariids - J8_SIA"
+  },
+  {
+    "id": "south-librids-lupids",
+    "name": "South. Librids-Lupids - J8_SLL"
+  },
+  {
+    "id": "south-march-virginids-1",
+    "name": "South. March Virginids - J8_SVI"
+  },
+  {
+    "id": "south-may-ophiuchids-1",
+    "name": "South. May Ophiuchids - J8_SOP"
+  },
+  {
+    "id": "south-may-ophiuchids",
+    "name": "South. May Ophiuchids - IW_SOP"
+  },
+  {
+    "id": "south-mu-sagittariids-1",
+    "name": "South. mu Sagittariids - J8_SSG"
+  },
+  {
+    "id": "south-october-delta-arietids-1",
+    "name": "South. October delta Arietids - J8_SOA"
+  },
+  {
+    "id": "south-omega-scorpiids-1",
+    "name": "South. omega Scorpiids - J8_SSC"
+  },
+  {
+    "id": "south-taurids-2",
+    "name": "South. Taurids - J8_STA"
+  },
+  {
+    "id": "south-taurids",
+    "name": "South. Taurids - J5_STA"
+  },
+  {
+    "id": "southern-lambda-draconids-",
+    "name": "Southern lambda Draconids - J8_SLD"
+  },
+  {
+    "id": "southern-sigma-sagittariids",
+    "name": "Southern sigma Sagittariids - J8_SSS"
+  },
+  {
+    "id": "southhern-june-aquilids",
+    "name": "Southhern June Aquilids - J8_SZC"
+  },
+  {
+    "id": "spo",
+    "name": "Sporadic - SPO"
+  },
+  {
+    "id": "tau-aquariids-1",
+    "name": "tau Aquariids - J8_TAQ"
+  },
+  {
+    "id": "tau-cancrids",
+    "name": "tau Cancrids - J8_TCA"
+  },
+  {
+    "id": "tau-herculids-1",
+    "name": "tau Herculids - J8_TAH"
+  },
+  {
+    "id": "tau-ophiuchids-",
+    "name": "tau Ophiuchids - J8_TOP"
+  },
+  {
+    "id": "theta-centaurids-",
+    "name": "theta Centaurids - J8_TCN"
+  },
+  {
+    "id": "theta-coronae-borealids",
+    "name": "theta Coronae Borealids - IW_TCB"
+  },
+  {
+    "id": "theta-coronae-borealids-",
+    "name": "theta Coronae Borealids - J8_TCB"
+  },
+  {
+    "id": "theta-perseids-",
+    "name": "theta Perseids - J8_TPR"
+  },
+  {
+    "id": "theta-piscids-",
+    "name": "theta Piscids - J8_TPI"
+  },
+  {
+    "id": "theta-pyxidids-1",
+    "name": "Theta Pyxidids - J8_TPY"
+  },
+  {
+    "id": "theta-pyxidids",
+    "name": "Theta Pyxidids - J5_TPY"
+  },
+  {
+    "id": "theta-serpentids-",
+    "name": "theta Serpentids - J8_TSR"
+  },
+  {
+    "id": "theta-virginids",
+    "name": "theta Virginids - J8_TVI"
+  },
+  {
+    "id": "upsilon-andromedids-",
+    "name": "upsilon Andromedids - J8_UAN"
+  },
+  {
+    "id": "upsilon-cetids-",
+    "name": "upsilon Cetids - J8_UCE"
+  },
+  {
+    "id": "upsilon-cetids",
+    "name": "upsilon Cetids - IW_UCE"
+  },
+  {
+    "id": "upsilon-eridanids-1",
+    "name": "upsilon Eridanids - J8_UER"
+  },
+  {
+    "id": "upsilon-ursae-majorids-",
+    "name": "upsilon Ursae Majorids - J8_UUM"
+  },
+  {
+    "id": "ursids-2",
+    "name": "Ursids - J8_URS"
+  },
+  {
+    "id": "ursids",
+    "name": "Ursids - J5_URS"
+  },
+  {
+    "id": "x-herculids-",
+    "name": "x Herculids - J8_XHE"
+  },
+  {
+    "id": "xi-aurigids",
+    "name": "xi Aurigids - IW_XAU"
+  },
+  {
+    "id": "xi-aurigids-",
+    "name": "xi Aurigids - J8_XAU"
+  },
+  {
+    "id": "xi-cetids-1",
+    "name": "xi Cetids - J8_XCE"
+  },
+  {
+    "id": "xi-coronae-borealids-",
+    "name": "xi Coronae Borealids - J8_XCB"
+  },
+  {
+    "id": "xi-draconids-",
+    "name": "xi Draconids - J8_XDR"
+  },
+  {
+    "id": "xi-ursae-majorids",
+    "name": "Xi Ursae Majorids - J5_XUM"
+  },
+  {
+    "id": "xi-ursae-majorids-2",
+    "name": "Xi Ursae Majorids - J8_XUM"
+  },
+  {
+    "id": "xi-ursae-majorids-3",
+    "name": "xi Ursae Majorids - J8_CUR"
+  },
+  {
+    "id": "zeta-arietids",
+    "name": "zeta Arietids - IW_ZAR"
+  },
+  {
+    "id": "zeta-arietids-",
+    "name": "zeta Arietids - J8_ZAR"
+  },
+  {
+    "id": "zeta-cancrids-",
+    "name": "zeta Cancrids - J8_ZCN"
+  },
+  {
+    "id": "zeta-cassiopeiids-",
+    "name": "zeta Cassiopeiids - J8_ZCS"
+  },
+  {
+    "id": "zeta-cygnids",
+    "name": "zeta Cygnids - IW_ZCY"
+  },
+  {
+    "id": "zeta-cygnids-",
+    "name": "zeta Cygnids - J8_ZCY"
+  },
+  {
+    "id": "zeta-draconids",
+    "name": "zeta Draconids - IW_ZDR"
+  },
+  {
+    "id": "zeta-draconids-1",
+    "name": "zeta Draconids - J8_ZDR"
+  },
+  {
+    "id": "zeta-eridanids-",
+    "name": "zeta Eridanids - J8_ZER"
+  },
+  {
+    "id": "zeta-ophiuchids-",
+    "name": "zeta Ophiuchids - J8_ZOP"
+  },
+  {
+    "id": "zeta-puppids-",
+    "name": "zeta Puppids - J8_ZPU"
+  },
+  {
+    "id": "zeta-serpentids-",
+    "name": "zeta Serpentids - J8_ZSE"
+  },
+  {
+    "id": "zeta-taurids-",
+    "name": "zeta Taurids - J8_ZTA"
+  },
+  {
+    "id": "zeta-perseids-1",
+    "name": "Zeta-Perseids - J8_DDP"
+  }
+]

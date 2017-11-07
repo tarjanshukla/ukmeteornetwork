@@ -1,0 +1,7 @@
+_site/
+.sass-cache/
+.idea/
+*.lock
+Gemfile.lock
+/backend-lambdas/zip-process/node_modules/
+.DS_Store

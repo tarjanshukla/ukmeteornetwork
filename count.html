@@ -1,0 +1,50 @@
+---
+layout: page
+title: Count
+description: Count Page
+permalink: /count/
+image: img/twitter-card-default.jpg
+scripts:
+  - vue.min.js
+  - pages/count.js
+---
+
+<!-- page content here -->
+
+<div class="row">
+  {% raw %}
+  <div id="count-root" class="col-md-12" v-cloak>
+    <div v-for="year in years">
+      <h3>Counts for {{ year }}</h3>
+      <table class="table table-bordered table-hover">
+        <thead>
+          <tr>
+            <th>Meteor counts</th>
+              <th colspan="13">Month</th>
+            </tr>
+          <tr>
+            <th>Station</th>
+            <th v-for="n in 12">{{ n }}</th>
+            <th>Grand Total</th>
+          <tr>
+        </thead>
+        <tbody>
+          <tr v-for="station in stations">
+            <td>{{ station }}</td>
+            <td v-for="stat in stats[year][station]" >{{ stat }}</td>
+            <td>{{ stats[year][station] | sum }}</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td>Grand Total</td>
+            <th v-for="stat in stats[year]['__TOTAL__']" >{{ stat }}</th>
+            <td>{{ stats[year]['__TOTAL__'] | sum }}</td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  {% endraw %}
+  </div>
+</div>
+

@@ -1,0 +1,654 @@
+/*!
+ * Custom Meteor Network CSS
+ *
+ */
+
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|Oswald:400,700,300);
+
+/*
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'Oswald', sans-serif;
+*/
+
+body {
+    padding-top: 70px;
+    font-size: 15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  line-height: inherit;
+}
+
+.breadcrumb {
+    margin: 10px 0;
+}
+
+
+/* Main marketing message and sign up button */
+
+.jumbotron {
+    margin: 20px 0 30px 0;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.home {
+    background: url(../img/meteor-bg.jpg) repeat left -100px;
+    background-size: 800px auto;
+    color: #fff;
+}
+.home-fireball {
+  background-size: 700px auto;
+  color: #000;
+}
+
+.home, .home-fireball { max-height: 280px;}
+.jumbotron.contact { min-height: 300px;}
+
+.jumbotron h1 {
+    font-size: 72px;
+    line-height: 1;
+}
+
+.jumbotron .btn {
+    font-size: 21px;
+}
+
+
+/* Supporting marketing content */
+
+.marketing {
+    margin: 40px 0;
+}
+
+.marketing p+h4 {
+    margin-top: 28px;
+}
+
+
+/*** Customised Theme ***/
+
+a {
+    color: #000;
+}
+
+a:focus, a:hover {
+    color: #ec1c23;
+}
+
+h1, h2, h3 {
+    line-height: 23px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h4 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+#MeteorList {
+    background: #FFF;
+    padding: 20px 0;
+}
+
+p a {
+    text-decoration: underline;
+    color: #ec1c23;
+}
+
+p a:hover {
+    text-decoration: none;
+}
+
+a.btn {
+    text-decoration: none;
+}
+
+
+/*** main menu ***/
+
+.navbar {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e70b05;
+}
+
+.nav>li>a {
+    padding: 10px 20px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+
+/*** tabs ***/
+
+.nav-tabs {
+    border-bottom: 1px solid #EC1C23;
+    margin-bottom: 10px;
+}
+
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+}
+
+.nav-tabs>li>a:hover {
+    border-color: #eee #eee #ddd;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #EC1C23;
+    border-color: #EC1C23 #EC1C23 transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    color: #FFFFFF;
+    cursor: default;
+}
+
+.navbar-brand img {
+    max-height: 30px;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: optimize-contrast;
+}
+
+.ukmonMap {
+    margin: 15px 0;
+}
+
+.meteorDetails {
+    margin-top: 60px;
+}
+
+.station-name {
+    font-family: 'Oswald', sans-serif;
+    font-size: 100%;
+    font-weight: 300;
+    float: left;
+}
+
+
+/*** submenu style ***/
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+    background-color: #e70b05;
+}
+
+
+/*** pagination ***/
+
+.pagination>li>a, .pagination>li>span {
+    color: #000;
+}
+
+.pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
+    color: #000;
+    background-color: #eee;
+    border-color: #ddd;
+}
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #ec1c23;
+    border-color: #eee;
+}
+
+.pagination>.disabled>span, .pagination>.disabled>span:hover, .pagination>.disabled>span:focus, .pagination>.disabled>a, .pagination>.disabled>a:hover, .pagination>.disabled>a:focus {
+    color: #777;
+    cursor: not-allowed;
+    background-color: #fff;
+    border-color: #ddd;
+}
+
+/*** menu list items ***/
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  background-color: #e70b05;
+  border-color: #e70b05
+}
+
+
+/*** bigger badges ***/
+
+#MeteorList .label, .badge {
+    margin: 0 4px 0 0;
+    padding: 10px;
+}
+
+.imageBorder {
+    background: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.imageBorder img {
+    border: 2px solid #fff;
+}
+
+.meteordateandtime {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 150%;
+    font-weight: 700;
+}
+
+.copyright {
+  background: #eee;
+  padding: 10px
+}
+.copyright a {
+  text-decoration: underline;
+  color: #ec1c23;
+}
+.copyright a:hover {
+  text-decoration: none;
+  color: #ec1c23;
+}
+
+.copyright img {
+    float: left;
+    margin-right: 15px;
+}
+
+input[type="text"] {
+    /*width: 500px;*/
+}
+
+.form, .form-signin {
+    max-width: 450px;
+    padding: 19px 29px 29px;
+    margin: 20px auto;
+    background-color: #fff;
+    border: 1px solid #e5e5e5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
+}
+
+.form-full-width {
+    max-width: 100%;
+}
+
+.form-signin .form-signin-heading, .form-signin .checkbox {
+    margin-bottom: 10px;
+}
+
+.form-signin input[type="text"], .form-signin input[type="email"], .form-signin input[type="password"] {
+    font-size: 16px;
+    height: auto;
+    margin-bottom: 15px;
+    padding: 7px 9px;
+}
+
+.meteor-search .form-control {
+  display: inline-block;
+  width: auto;
+}
+
+.meteor-search form button {
+  width: 60px;
+}
+
+.meteor-search .SocialMedia {
+  display: block;
+}
+
+.SocialMedia {
+    font-size: 15px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    height: 30px;
+    line-height: 30px;
+}
+
+.SocialMedia ul {
+  margin-bottom: 0;
+  text-align: right;
+  padding: 0;
+}
+
+.filter-options select[name=station] {
+  width: 130px;
+}
+
+.filter-options select[name=order] {
+  width: 120px;
+}
+
+.date-range > * {
+  float: left;
+}
+.date-range .input-group-addon {
+  min-width: 30px;
+  padding: 6px 5px;
+  height: 30px;
+}
+.date-range input[readonly] {
+  background-color: #fff;
+}
+
+.meteor-count {
+  margin: 0;
+  height: 30px;
+  line-height: 30px;
+}
+
+.meteor-card h4,
+.meteor-card h5,
+.meteor-card p {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 767px) {
+  .SocialMedia ul {
+    text-align: center;
+  }
+
+  .meteor-search form {
+    margin-bottom: 10px;
+  }
+
+  .meteor-search .form-control {
+    width: calc(100% - 65px);
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .footer {
+    text-align: center;
+  }
+  .SocialMedia {
+    float: none !important;
+    display: inline-block;
+    padding-left: 0;
+    margin: 0 auto;
+  }
+  .SocialMedia li {
+    margin: 0 14px;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .meteor-search .SocialMedia {
+    height: auto;
+  }
+
+  .meteor-search .SocialMedia li {
+    display: block;
+  }
+}
+
+.SocialMedia li {
+    list-style: none;
+    display: inline;
+    margin-right: 15px;
+}
+
+.SocialMedia li a {
+    color: #e70b05;
+}
+
+.SocialMedia li a:hover {
+    color: #000;
+}
+
+.jumbotron .SocialMedia {
+  text-align: center;
+}
+.jumbotron .SocialMedia a {
+    font-size: 36px;
+    margin: 5px 10px;
+}
+.footer .SocialMedia {
+  text-align: left;
+}
+
+
+/*
+ * Blog name and description
+ */
+
+.blog-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.blog-title {
+    margin-top: 30px;
+    margin-bottom: 0;
+    font-size: 60px;
+    font-weight: normal;
+}
+
+.blog-description {
+    font-size: 20px;
+    color: #999;
+    margin: 20px 0 0;
+}
+
+
+/*
+ * Main column and sidebar layout
+ */
+
+.blog-main {}
+
+
+/* Sidebar modules for boxing content */
+
+.sidebar-module {
+    padding: 15px;
+    margin: 15px 0px 15px;
+}
+
+.sidebar-module-inset {
+    padding: 15px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+
+.sidebar-module-inset p:last-child, .sidebar-module-inset ul:last-child, .sidebar-module-inset ol:last-child {
+    margin-bottom: 0;
+}
+
+.blog-sidebar h3, .blog-sidebar h4 {
+  color: #d9534f;
+}
+.blog-sidebar h3 {
+  font-size: 20px;
+}
+.blog-sidebar h4 {
+  font-size: 18px;
+}
+
+
+/* Pagination */
+
+.pager {
+    margin-bottom: 60px;
+    text-align: left;
+}
+
+.pager>li>a {
+    width: 140px;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+
+/*
+ * Blog posts
+ */
+
+.blog-post {
+    margin-bottom: 60px;
+}
+
+.blog-post-title {
+    margin-bottom: 20px;
+    font-size: 40px;
+    line-height: 35px;
+}
+
+.blog-post-meta {
+    margin-bottom: 20px;
+    color: #999;
+}
+
+/*** Meteor Archive ***/
+.meteor-archive h3 {
+  font-size: 18px;
+}
+
+
+/*** internal fireball report ***/
+.fireball-report-entry {
+  background-color: #eee;
+    margin: 0 0 10px 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding: 15px;
+  }
+
+/*** member-profile ***/
+.member-profile {
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 10px;
+  }
+.member-profile i {
+    font-size: 26px !important;
+  }
+
+.fireball-details {
+  font-size: 20px;
+}
+
+/* --- Cookie policy --- */
+#general-content{
+    position: relative;
+}
+.cookie-message {
+    display: none;
+    z-index: 9999;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    background: #eee;
+    padding: 20px 0;
+    color: #333;
+}
+.cookie-message h3 {
+    float: left;
+    margin: 0 45px 0 0;
+    font-family: 'Oswald', sans-serif;
+}
+.cookie-message p {
+    max-width: 590px;
+    margin: 0;
+    float: left;
+}
+.cookie-message a.btn {
+    float: right;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+/* Spinner start */
+.spinner-backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1031;
+}
+
+.spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  transform: translate(-50%, -50%) rotate(0deg);
+
+  animation: sk-rotate 2.0s infinite linear;
+}
+
+.dot1, .dot2 {
+  width: 60%;
+  height: 60%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  background-color: #ec1c23;
+  border-radius: 100%;
+
+  animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.dot2 {
+  top: auto;
+  bottom: 0;
+  animation-delay: -1.0s;
+}
+
+@keyframes sk-rotate {
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+@keyframes sk-bounce {
+  0%, 100% {
+    transform: scale(0.0);
+  }
+  50% {
+    transform: scale(1.0);
+  }
+}
+/* Spinner end */

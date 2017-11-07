@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="ufo_report.xsl"?>
+<ufoanalyzer_report version="200"	 y="2017" mo="5" d="25" h="21" tz="0" days="1">
+<ufo_systems>
+	<ufo_system id="Ash_Vale_K2" meteors="6" e-class="0" total="6"/>
+</ufo_systems>
+<ufo_class_time_counts>
+<ufo_class_time_count_meteor>
+	<ufo_class_time_count class="spo" count="2" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="" h22="1" h23="" h00="1" h01="" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="J8_NSC" count="1" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="1" h22="" h23="" h00="" h01="" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="J8_ASC" count="1" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="" h22="" h23="1" h00="" h01="" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="J8_MAC" count="1" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="" h22="" h23="1" h00="" h01="" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="J8_LLY" count="1" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="" h22="" h23="" h00="" h01="1" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+	<ufo_class_time_count class="Meteor total" count="6" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="1" h22="1" h23="2" h00="1" h01="1" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+</ufo_class_time_count_meteor>
+	<ufo_class_time_count class="Total" count="6" h12="" h13="" h14="" h15="" h16="" h17="" h18="" h19="" h20="" h21="1" h22="1" h23="2" h00="1" h01="1" h02="" h03="" h04="" h05="" h06="" h07="" h08="" h09="" h10="" h11=""/>
+</ufo_class_time_counts>
+<ufo_class_mag_counts>
+<ufo_class_mag_count_meteor>
+	<ufo_class_mag_count class="spo" count="2" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="1" m001="1" m002="" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="J8_NSC" count="1" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="" m001="1" m002="" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="J8_ASC" count="1" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="1" m001="" m002="" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="J8_MAC" count="1" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="" m001="" m002="1" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="J8_LLY" count="1" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="1" m001="" m002="" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+	<ufo_class_mag_count class="Meteor total" count="6" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="3" m001="2" m002="1" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+</ufo_class_mag_count_meteor>
+	<ufo_class_mag_count class="Total" count="6" m-10="" m-09="" m-08="" m-07="" m-06="" m-05="" m-04="" m-03="" m-02="" m-01="" m000="3" m001="2" m002="1" m003="" m004="" m005="" m006="" m007="" m008="" m009="" m010=""/>
+</ufo_class_mag_counts>
+<ufo_objects>
+	 <ufo_object y="2017" mo="5" d="25" h="21" m="41" s="36.1" class="J8_NSC" sec="0.22" mag="0.8" av="13.85" az1="11.7" ev1="56.6" ra1="256.2121" dc1="81.3106" az2="7.4" ev2="54.6" ra2="259.8995" dc2="84.4551"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="25" h="22" m="21" s="49.0" class="spo" sec="0.36" mag="0.7" av="7.42" az1="49.5" ev1="44.9" ra1="299.6256" dc1="56.8878" az2="53.2" ev2="44.5" ra2="297.8864" dc2="54.4676"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="25" h="23" m="8" s="40.3" class="J8_ASC" sec="0.28" mag="-0.1" av="7.52" az1="336.3" ev1="39.6" ra1="113.6125" dc1="69.9141" az2="336.2" ev2="37.5" ra2="109.6931" dc2="68.3686"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="25" h="23" m="9" s="3.4" class="J8_MAC" sec="0.14" mag="1.6" av="4.81" az1="28.3" ev1="26.2" ra1="358.6975" dc1="56.9686" az2="28.3" ev2="25.5" ra2="359.3204" dc2="56.3231"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="26" h="0" m="47" s="1.3" class="spo" sec="0.46" mag="-0.4" av="15.49" az1="35.8" ev1="24.6" ra1="15.1572" dc1="51.6871" az2="28.7" ev2="21.9" ra2="26.5932" dc2="53.0358"></ufo_object>
+	 <ufo_object y="2017" mo="5" d="26" h="1" m="43" s="33.5" class="J8_LLY" sec="0.62" mag="0.4" av="6.20" az1="48.6" ev1="22.6" ra1="17.5596" dc1="42.9265" az2="45.9" ev2="19.8" ra2="22.5657" dc2="42.2493"></ufo_object>
+</ufo_objects>
+</ufoanalyzer_report>

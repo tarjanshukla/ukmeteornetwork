@@ -1,0 +1,65 @@
+<!-- Static navbar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+            <a class="navbar-brand" href="{{ site.baseurl }}/"><img alt="UKMON" src="{{ site.baseurl }}/img/ukmon-logo.png"></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li {% if page.url == '/news/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/news/">News</a></li>
+                <li {% if page.url == '/fireballs/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/fireballs/">Fireballs</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reports <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header">Year by year reports</li>
+                        <li><a href="{{ site.baseurl }}/reports/">Annual reports</a></li>
+                        <li role="separator" class="divider"></li>
+                            <li class="dropdown-header">Full stations summary</li>
+                        <li><a href="{{ site.baseurl }}/stations/">Station reports</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header">More about UKMON</li>
+                        <li {% if page.url == '/about-history/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/about-history/">History</a></li>
+                        <li {% if page.url == '/about-the-team/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/about-the-team/">The Team</a></li>
+                        <li {% if page.url == '/collaboration/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/collaboration/">Collaboration</a></li>
+                        <li {% if page.url == '/about-friends/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/about-friends/">Friends</a></li>
+                        <li role="separator" class="divider"></li>
+                        <!-- <li class="dropdown-header">Sprites</li> -->
+                        <li {% if page.url == '/contact/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/contact/">Contact Us</a></li>
+                        <li {% if page.url == '/join-ukmon/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/join-ukmon/">Join UKMON</a></li>
+                    </ul>
+                </li>
+                <li{% if page.url == '/network/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/network/">Network</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Equipment <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header">How to start</li>
+                        <li {% if page.url == '/equipment-camera-and-lens/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/equipment-camera-and-lens/">Camera and lens</a></li>
+                        <li {% if page.url == '/equipment-computer/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/equipment-computer/">Computer</a></li>
+                        <li {% if page.url == '/equipment-cabling-and-power/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/equipment-cabling-and-power/">Cabling and power</a></li>
+                        <li {% if page.url == '/equipment-external-enclosure/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/equipment-external-enclosure/">External enclosure</a></li>
+                        <li {% if page.url == '/equipment-software/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/equipment-software/">Software</a></li>
+                    </ul>
+                </li>
+                <li {% if page.url == '/downloads/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/downloads/">Downloads</a></li>
+                <li {% if page.url == '/SCAMP/' %} class="active"{% endif %}><a href="{{ site.baseurl }}/SCAMP/">SCAMP</a></li>
+            </ul>
+            <!--
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#"><i class="fa fa-play" aria-hidden="true"></i> Live</a></li>
+                <li><a href="archive.html"><i class="fa fa-archive" aria-hidden="true"></i> Archive</a></li>
+            </ul>
+          -->
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+</nav>
